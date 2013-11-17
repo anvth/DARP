@@ -14,19 +14,19 @@ public class DriverProgram {
 
 	public static List<Taxi> tList = new ArrayList<Taxi>();
 	public static List<Requests> rList = new ArrayList<Requests>();
-
+    public static int taxiCapacity;
 	public static void main(String[] args) throws IOException{
 		
-		/*File fileName = new File("test1");
-		BufferedReader reader = new BufferedReader(new FileReader(fileName));*/
+		File fileName = new File("test1");
+		BufferedReader reader = new BufferedReader(new FileReader(fileName));
 		
-		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+		//BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		String text = null;
 		//int lineCount = 0;
 		int locCount;
 		int requestCount;
 		int taxiCount;
-		int taxiCapacity;
+		//int taxiCapacity;
 		text = reader.readLine();
 		//lineCount++;
 		StringTokenizer st = new StringTokenizer(text, " ");
@@ -76,12 +76,14 @@ public class DriverProgram {
 			Requests reqObj = new Requests(temp1,temp2,temp3,temp4);
 			rList.add(reqObj);
 		}
-		obj.print("requests list");
+		//obj.print("requests list");
 		
 		obj.sortRequests(requestCount);
-		//obj.print("requests list");
+		obj.print("requests list");
+		
 		int income = schedulerObj.taxiScheduling(rList, tList);
 		System.out.println("total revenue: "+income);
+		
 		
 	}
 

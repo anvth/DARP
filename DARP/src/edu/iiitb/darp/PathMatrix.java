@@ -4,14 +4,14 @@ public class PathMatrix {
 	
 	int[][] matrix;
 	public static int[][] shortestPath;
-	int[][] adjMatrix;
-	int locCount;
+	public static int[][] adjMatrix;
+	public static int locCount;
 	
 	public PathMatrix(int locCount){
-		this.locCount = locCount;
-		matrix = new int[this.locCount][this.locCount];		
-		shortestPath = new int[this.locCount][this.locCount];
-		adjMatrix = new int[this.locCount][this.locCount];
+		PathMatrix.locCount = locCount;
+		matrix = new int[PathMatrix.locCount][PathMatrix.locCount];		
+		shortestPath = new int[PathMatrix.locCount][PathMatrix.locCount];
+		adjMatrix = new int[PathMatrix.locCount][PathMatrix.locCount];
 	}
 	
 	
@@ -41,7 +41,7 @@ public class PathMatrix {
 
 
 	public void setLocCount(int locCount) {
-		this.locCount = locCount;
+		PathMatrix.locCount = locCount;
 	}
 
 

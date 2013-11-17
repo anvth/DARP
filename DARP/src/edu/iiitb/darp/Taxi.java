@@ -1,26 +1,49 @@
 package edu.iiitb.darp;
 
-import java.util.Stack;
+
 
 public class Taxi {
 	
 	int taxiID;
 	int startLoc;
 	int currentLoc;
-	int taxiCapacity;
-	int[] destLoc = new int[5];
+	int Capacity;
 	int revenueEarned = 0;
 	int noOfPassengers = 0;
 	int timeElapsed = 0;
-	private int top = -1;
 	
+	public class MyStack {
+
+		
+		private int maxSize;
+		   private int[] stackArray;
+		   private int top;
+		   public MyStack(int s) {
+		      maxSize = s;
+		      stackArray = new int[maxSize];
+		      top = -1;
+		   }
+		   public void push(int j) {
+			  //System.out.println(top);
+		      stackArray[++top] = j;
+		   }
+		   public int pop() {
+			  // System.out.println("calling pop "+top);
+		      return stackArray[top--];
+		   }
+		   public boolean isEmpty() {
+			      return (top == -1);
+		   }
+	}
 	public Taxi(int taxiID, int startLoc, int taxiCapacity){
 		
 		this.taxiID = taxiID;
 		this.startLoc = startLoc;
-		this.taxiCapacity = taxiCapacity;
+		Capacity = taxiCapacity;
 		this.currentLoc = this.startLoc;
 	}
+	
+	MyStack obj = new MyStack(DriverProgram.taxiCapacity);
 
 	public int getTaxiID() {
 		return taxiID;
@@ -30,16 +53,18 @@ public class Taxi {
 		this.taxiID = taxiID;
 	}
 
-	public Object getDestLoc() {
+	public int getDestLoc() {
+		/*System.out.println("calling dest loc at: "+top);
 		int temp =  destLoc[top];
-		top--;
-		return temp;
+		top--;*/
+		return obj.pop();
 		
 	}
 
 	public void setDestLoc(int destLoc) {
-		top++;
-		this.destLoc[top] = destLoc;
+		/*this.destLoc[top] = destLoc;*/
+		
+		obj.push(destLoc);
 	}
 
 	public int getRevenueEarned() {
@@ -67,11 +92,11 @@ public class Taxi {
 	}
 
 	public int getTaxiCapacity() {
-		return taxiCapacity;
+		return Capacity;
 	}
 
 	public void setTaxiCapacity(int taxiCapacity) {
-		this.taxiCapacity = taxiCapacity;
+		this.Capacity = taxiCapacity;
 	}
 
 	public int getTimeElapsed() {
