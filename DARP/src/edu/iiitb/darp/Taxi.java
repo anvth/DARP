@@ -34,6 +34,22 @@ public class Taxi {
 		   public boolean isEmpty() {
 			      return (top == -1);
 		   }
+		   public int peek(int dest){
+			   for(int i = top; i >= 0; i--){
+				   if(dest == stackArray[i]){
+					   return i;
+				   }
+			   }
+			   return -1;
+		   }
+		   public int removeAt(int destIndex){
+			   int locValue = stackArray[destIndex];
+			   for(int i = destIndex; i < top; i++){
+				   stackArray[i] = stackArray[i+1];
+			   }
+			   --top;
+			   return locValue;
+		   }
 	}
 	public Taxi(int taxiID, int startLoc, int taxiCapacity){
 		
@@ -54,16 +70,18 @@ public class Taxi {
 	}
 
 	public int getDestLoc() {
-		/*System.out.println("calling dest loc at: "+top);
-		int temp =  destLoc[top];
-		top--;*/
 		return obj.pop();
-		
+	}
+	
+	public int removeAt(int destIndex){
+		return obj.removeAt(destIndex);
+	}
+	
+	public int lookForDest(int dest){
+		return obj.peek(dest);
 	}
 
-	public void setDestLoc(int destLoc) {
-		/*this.destLoc[top] = destLoc;*/
-		
+	public void setDestLoc(int destLoc) {		
 		obj.push(destLoc);
 	}
 

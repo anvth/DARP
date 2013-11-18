@@ -15,15 +15,14 @@ public class Scheduler {
 		Random rand = new Random();
 		int income = 0, k=0, satisfied = 0;
 		String content = null;
-		File oFile = new File("C:\\Eclipse\\Workspace\\git\\DARP\\DARP\\output.txt");
-		if(!oFile.exists()){
-			oFile.createNewFile();
+		
+		if(!DriverProgram.outputFile.exists()){
+			DriverProgram.outputFile.createNewFile();
 		}
-		FileWriter fw = new FileWriter(oFile.getAbsoluteFile());
+		FileWriter fw = new FileWriter(DriverProgram.outputFile.getAbsoluteFile());
 		BufferedWriter bw = new BufferedWriter(fw);
-		//breakLoop:
+		
 		while(k<rList.size()){
-		//while(taxiList != null){
 		for(int i = 0; i < rList.size(); i++){
 			
 			for ( int j = 0; j < tList.size(); j++){
@@ -76,7 +75,7 @@ public class Scheduler {
 						//System.out.println("*******************************");
 						content = "*******************************\n";
 						bw.append(content);
-						System.out.println(((Taxi) tList.toArray()[j]).getTaxiID()+" "+((Taxi) tList.toArray()[j]).getCurrentLoc()+" "+((Taxi) tList.toArray()[j]).getTimeElapsed());
+						System.out.println(((Taxi) tList.toArray()[j]).getTaxiID()+" "+((Taxi) tList.toArray()[j]).getCurrentLoc()+" "+((Taxi) tList.toArray()[j]).getTimeElapsed()+" "+((Taxi) tList.toArray()[j]).getNoOfPassengers());
 						
 				}//end if location match
 			}//end for tList
@@ -99,15 +98,22 @@ public class Scheduler {
 							
 				((Taxi) tList.toArray()[j]).setCurrentLoc(newLoc);
 				
+				int temp = ((Taxi) tList.toArray()[j]).lookForDest(((Taxi) tList.toArray()[j]).getCurrentLoc());
+				
+				if(temp >= 0){
+					newLoc = ((Taxi) tList.toArray()[j]).removeAt(temp);
+					((Taxi) tList.toArray()[j]).setCurrentLoc(newLoc);
+					int tempPassengerCount = (((Taxi) tList.toArray()[j]).getNoOfPassengers());
+					((Taxi) tList.toArray()[j]).setNoOfPassengers(tempPassengerCount-1);
+				}
+				
 				//System.out.println(((Taxi) tList.toArray()[j]).getTaxiID()+" -> "+/*((Taxi) tList.toArray()[j]).getStartLoc()+" -> "+*/((Taxi) tList.toArray()[j]).getCurrentLoc()+" ->"+((Taxi) tList.toArray()[j]).getTimeElapsed());
 			}
 			
 			if(((Taxi) tList.toArray()[j]).getNoOfPassengers() == ((Taxi) tList.toArray()[j]).getTaxiCapacity()){
 				int newLoc = 0;
 				int newTime;
-				//int x = 0;
-				//System.out.println("taxi full : "+((Taxi) tList.toArray()[j]).getTaxiID());
-				//while(x<5){
+				//while(((Taxi) tList.toArray()[j]).getNoOfPassengers() > 0){
 				newLoc = ((Taxi) tList.toArray()[j]).getDestLoc();
 				newTime = (int) (((Taxi) tList.toArray()[j]).getTimeElapsed() + (PathMatrix.shortestPath[((Taxi) tList.toArray()[j]).getCurrentLoc()][newLoc]*(1.1)));
 				
@@ -117,11 +123,8 @@ public class Scheduler {
 				int temp = (((Taxi) tList.toArray()[j]).getNoOfPassengers());
 				((Taxi) tList.toArray()[j]).setNoOfPassengers(temp-1);
 				//System.out.println("Passenger dropped: "+" "+((Taxi) tList.toArray()[j]).getTaxiID()+" "+(((Taxi) tList.toArray()[j]).getCurrentLoc()+" "+(((Taxi) tList.toArray()[j]).getTimeElapsed())+" "+(((Taxi) tList.toArray()[j]).getNoOfPassengers())));
-				//x++;
 				//}
-			}
-			
-			
+			}	
 		}
 		
 		k++;

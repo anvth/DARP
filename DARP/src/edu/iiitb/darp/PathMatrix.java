@@ -1,5 +1,6 @@
 package edu.iiitb.darp;
 
+
 public class PathMatrix {
 	
 	int[][] matrix;
@@ -47,7 +48,6 @@ public class PathMatrix {
 
 
 	public void insertLocation(int row,int col,int data){
-		//System.out.println("data received to insert function: "+row+" "+col+" "+data);
 		if( data == -1){
 			matrix[row][col] = 999;
 		}
