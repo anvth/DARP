@@ -1,7 +1,6 @@
 package edu.iiitb.darp;
 
 import java.io.BufferedWriter;
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
@@ -16,13 +15,13 @@ public class Scheduler {
 		int income = 0, k=0, satisfied = 0;
 		String content = null;
 		
-		if(!DriverProgram.outputFile.exists()){
-			DriverProgram.outputFile.createNewFile();
+		if(!MT2013127.outputFile.exists()){
+			MT2013127.outputFile.createNewFile();
 		}
-		FileWriter fw = new FileWriter(DriverProgram.outputFile.getAbsoluteFile());
+		FileWriter fw = new FileWriter(MT2013127.outputFile.getAbsoluteFile());
 		BufferedWriter bw = new BufferedWriter(fw);
 		
-		while(k<rList.size()){
+		while(k<(rList.size()-600)){
 		for(int i = 0; i < rList.size(); i++){
 			
 			for ( int j = 0; j < tList.size(); j++){
@@ -75,8 +74,8 @@ public class Scheduler {
 						//System.out.println("*******************************");
 						content = "*******************************\n";
 						bw.append(content);
-						System.out.println(((Taxi) tList.toArray()[j]).getTaxiID()+" "+((Taxi) tList.toArray()[j]).getCurrentLoc()+" "+((Taxi) tList.toArray()[j]).getTimeElapsed()+" "+((Taxi) tList.toArray()[j]).getNoOfPassengers());
-						
+						//System.out.println(((Taxi) tList.toArray()[j]).getTaxiID()+" "+((Taxi) tList.toArray()[j]).getCurrentLoc()+" "+((Taxi) tList.toArray()[j]).getTimeElapsed()+" "+((Taxi) tList.toArray()[j]).getNoOfPassengers());
+						((Taxi) tList.toArray()[j]).taxiBuffer.append("("+((Taxi) tList.toArray()[j]).getCurrentLoc()+" "+((Taxi) tList.toArray()[j]).getTimeElapsed()+")");
 				}//end if location match
 			}//end for tList
 		}//end for rList
@@ -106,7 +105,7 @@ public class Scheduler {
 					int tempPassengerCount = (((Taxi) tList.toArray()[j]).getNoOfPassengers());
 					((Taxi) tList.toArray()[j]).setNoOfPassengers(tempPassengerCount-1);
 				}
-				
+				((Taxi) tList.toArray()[j]).taxiBuffer.append("("+((Taxi) tList.toArray()[j]).getCurrentLoc()+","+((Taxi) tList.toArray()[j]).getTimeElapsed()+")");
 				//System.out.println(((Taxi) tList.toArray()[j]).getTaxiID()+" -> "+/*((Taxi) tList.toArray()[j]).getStartLoc()+" -> "+*/((Taxi) tList.toArray()[j]).getCurrentLoc()+" ->"+((Taxi) tList.toArray()[j]).getTimeElapsed());
 			}
 			
@@ -124,6 +123,7 @@ public class Scheduler {
 				((Taxi) tList.toArray()[j]).setNoOfPassengers(temp-1);
 				//System.out.println("Passenger dropped: "+" "+((Taxi) tList.toArray()[j]).getTaxiID()+" "+(((Taxi) tList.toArray()[j]).getCurrentLoc()+" "+(((Taxi) tList.toArray()[j]).getTimeElapsed())+" "+(((Taxi) tList.toArray()[j]).getNoOfPassengers())));
 				//}
+				((Taxi) tList.toArray()[j]).taxiBuffer.append("("+((Taxi) tList.toArray()[j]).getCurrentLoc()+","+((Taxi) tList.toArray()[j]).getTimeElapsed()+")");
 			}	
 		}
 		
@@ -132,8 +132,9 @@ public class Scheduler {
 		}
 		bw.close();
 		for(int i = 0; i < tList.size(); i++){
+			((Taxi) tList.toArray()[i]).taxiBuffer.append(((Taxi) tList.toArray()[i]).getRevenueEarned());
 			income = income + ((Taxi) tList.toArray()[i]).getRevenueEarned();
-			//System.out.println("Revenue of "+((Taxi) tList.toArray()[i]).getTaxiID()+" "+((Taxi) tList.toArray()[i]).getRevenueEarned());
+			System.out.println("Taxi "+((Taxi) tList.toArray()[i]).getTaxiID()+": "+((Taxi) tList.toArray()[i]).getTaxiBuffer());
 		}
 		return income;
 		

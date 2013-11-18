@@ -95,21 +95,21 @@ public class PathMatrix {
 		
 			for( int i = 0; i <= requestCount-2; i++){
 				for(int j=0;j<=(requestCount-2-i);j++){
-					if(((Requests) DriverProgram.rList.toArray()[j+1]).getFirstpickup() < ((Requests) DriverProgram.rList.toArray()[j]).getFirstpickup()){
-						int tempSource = ((Requests) DriverProgram.rList.toArray()[j+1]).getSource();
-						int tempDest = ((Requests) DriverProgram.rList.toArray()[j+1]).getDestination();
-						int tempFirstPickup = ((Requests) DriverProgram.rList.toArray()[j+1]).getFirstpickup();
-						int tempLastPickup = ((Requests) DriverProgram.rList.toArray()[j+1]).getLastpickup();
+					if(((Requests) MT2013127.rList.toArray()[j+1]).getFirstpickup() < ((Requests) MT2013127.rList.toArray()[j]).getFirstpickup()){
+						int tempSource = ((Requests) MT2013127.rList.toArray()[j+1]).getSource();
+						int tempDest = ((Requests) MT2013127.rList.toArray()[j+1]).getDestination();
+						int tempFirstPickup = ((Requests) MT2013127.rList.toArray()[j+1]).getFirstpickup();
+						int tempLastPickup = ((Requests) MT2013127.rList.toArray()[j+1]).getLastpickup();
 					
-						((Requests) DriverProgram.rList.toArray()[j+1]).setSource(((Requests) DriverProgram.rList.toArray()[j]).getSource()); 
-						((Requests) DriverProgram.rList.toArray()[j+1]).setDestination(((Requests) DriverProgram.rList.toArray()[j]).getDestination());
-						((Requests) DriverProgram.rList.toArray()[j+1]).setFirstpickup(((Requests) DriverProgram.rList.toArray()[j]).getFirstpickup());
-						((Requests) DriverProgram.rList.toArray()[j+1]).setLastpickup(((Requests) DriverProgram.rList.toArray()[j]).getLastpickup());
+						((Requests) MT2013127.rList.toArray()[j+1]).setSource(((Requests) MT2013127.rList.toArray()[j]).getSource()); 
+						((Requests) MT2013127.rList.toArray()[j+1]).setDestination(((Requests) MT2013127.rList.toArray()[j]).getDestination());
+						((Requests) MT2013127.rList.toArray()[j+1]).setFirstpickup(((Requests) MT2013127.rList.toArray()[j]).getFirstpickup());
+						((Requests) MT2013127.rList.toArray()[j+1]).setLastpickup(((Requests) MT2013127.rList.toArray()[j]).getLastpickup());
 					
-						((Requests) DriverProgram.rList.toArray()[j]).setSource(tempSource); 
-						((Requests) DriverProgram.rList.toArray()[j]).setDestination(tempDest);
-						((Requests) DriverProgram.rList.toArray()[j]).setFirstpickup(tempFirstPickup);
-						((Requests) DriverProgram.rList.toArray()[j]).setLastpickup(tempLastPickup);
+						((Requests) MT2013127.rList.toArray()[j]).setSource(tempSource); 
+						((Requests) MT2013127.rList.toArray()[j]).setDestination(tempDest);
+						((Requests) MT2013127.rList.toArray()[j]).setFirstpickup(tempFirstPickup);
+						((Requests) MT2013127.rList.toArray()[j]).setLastpickup(tempLastPickup);
 					}
 				}
 			}
@@ -149,15 +149,15 @@ public class PathMatrix {
 		}
 		else if(control.equalsIgnoreCase("taxi list")){
 			System.out.println("TAXI LIST");
-			for(int i=0;i<DriverProgram.tList.size();i++){
-				System.out.println(((Taxi) DriverProgram.tList.toArray()[i]).getTaxiID()+" -> "+((Taxi) DriverProgram.tList.toArray()[i]).getCurrentLoc());
+			for(int i=0;i<MT2013127.tList.size();i++){
+				System.out.println(((Taxi) MT2013127.tList.toArray()[i]).getTaxiID()+" -> "+((Taxi) MT2013127.tList.toArray()[i]).getCurrentLoc());
 			}
 			System.out.println("------------------------------");
 		}
 		else if(control.equalsIgnoreCase("requests list")){
 			System.out.println("REQUESTS LIST");
-			for(int i=0;i<DriverProgram.rList.size();i++){
-				System.out.println(((Requests) DriverProgram.rList.toArray()[i]).getSource()+" -> "+((Requests) DriverProgram.rList.toArray()[i]).getDestination()+" -> "+((Requests) DriverProgram.rList.toArray()[i]).getFirstpickup()+" -> "+((Requests) DriverProgram.rList.toArray()[i]).getLastpickup());
+			for(int i=0;i<MT2013127.rList.size();i++){
+				System.out.println(((Requests) MT2013127.rList.toArray()[i]).getSource()+" -> "+((Requests) MT2013127.rList.toArray()[i]).getDestination()+" -> "+((Requests) MT2013127.rList.toArray()[i]).getFirstpickup()+" -> "+((Requests) MT2013127.rList.toArray()[i]).getLastpickup());
 			}
 			System.out.println("------------------------------");
 		}

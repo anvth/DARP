@@ -11,7 +11,16 @@ public class Taxi {
 	int revenueEarned = 0;
 	int noOfPassengers = 0;
 	int timeElapsed = 0;
+	StringBuffer taxiBuffer = new StringBuffer(" ");
 	
+	public StringBuffer getTaxiBuffer() {
+		return taxiBuffer;
+	}
+
+	public void setTaxiBuffer(StringBuffer taxiBuffer) {
+		this.taxiBuffer = taxiBuffer;
+	}
+
 	public class MyStack {
 
 		
@@ -59,7 +68,7 @@ public class Taxi {
 		this.currentLoc = this.startLoc;
 	}
 	
-	MyStack obj = new MyStack(DriverProgram.taxiCapacity);
+	MyStack obj = new MyStack(MT2013127.taxiCapacity);
 
 	public int getTaxiID() {
 		return taxiID;

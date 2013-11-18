@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class DriverProgram {
+public class MT2013127 {
 	 
 
 	public static List<Taxi> tList = new ArrayList<Taxi>();
@@ -28,6 +28,7 @@ public class DriverProgram {
 			outputFlag = 1;
 		}
 		
+		@SuppressWarnings("resource")
 		BufferedReader reader = new BufferedReader(new FileReader(inputFile));
 		
 		String text = null;
