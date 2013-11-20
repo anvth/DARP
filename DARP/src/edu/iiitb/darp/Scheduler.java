@@ -14,12 +14,15 @@ public class Scheduler {
 		Random rand = new Random();
 		int income = 0, k=0, satisfied = 0;
 		String content = null;
-		
+		FileWriter fw;
+		BufferedWriter bw = null;
+		if(MT2013127.outputFlag == 1){
 		if(!MT2013127.outputFile.exists()){
 			MT2013127.outputFile.createNewFile();
 		}
-		FileWriter fw = new FileWriter(MT2013127.outputFile.getAbsoluteFile());
-		BufferedWriter bw = new BufferedWriter(fw);
+		fw = new FileWriter(MT2013127.outputFile.getAbsoluteFile());
+		bw = new BufferedWriter(fw);
+		}
 		
 		while(k<(rList.size()-600)){
 		for(int i = 0; i < rList.size(); i++){
@@ -34,20 +37,23 @@ public class Scheduler {
 							&& (((Requests) rList.toArray()[i]).isStatus()==false)){
 					
 						//System.out.println("Request number: "+i);
+					if(MT2013127.outputFlag == 1){
 						content = "Request number: "+i+"\n";
 						bw.append(content);
+					
 							
 						
 						//System.out.println("Found a taxi: "+((Taxi) tList.toArray()[j]).getTaxiID());
 						content = "Found a taxi: "+((Taxi) tList.toArray()[j]).getTaxiID()+" \n";
 						bw.append(content);
-						
+					}
 						int temp = (((Taxi) tList.toArray()[j]).getNoOfPassengers());
 						((Taxi) tList.toArray()[j]).setNoOfPassengers(temp+1);
 						//System.out.println("no of passengers in: "+((Taxi) tList.toArray()[j]).getNoOfPassengers());
+						if(MT2013127.outputFlag == 1){
 						content="no of passengers in: "+((Taxi) tList.toArray()[j]).getNoOfPassengers()+" \n";
 						bw.append(content);
-						
+						}
 						int row = ((Requests) rList.toArray()[i]).getSource();
 						int col = ((Requests) rList.toArray()[i]).getDestination();
 						
@@ -57,6 +63,7 @@ public class Scheduler {
 						((Taxi) tList.toArray()[j]).setDestLoc(((Requests) rList.toArray()[i]).getDestination());
 						//System.out.println("Taxi destined to: "+((Taxi) tList.toArray()[j]).getDestLoc());
 						//System.out.println("Cost of ride"+ PathMatrix.shortestPath[row][col]);
+						if(MT2013127.outputFlag == 1){
 						content = "Cost of ride"+ PathMatrix.shortestPath[row][col]+" \n";
 						bw.append(content);
 						
@@ -67,13 +74,16 @@ public class Scheduler {
 						//System.out.println("Time of pick up: "+((Taxi) tList.toArray()[j]).getTimeElapsed());
 						content = "Time of pick up: "+((Taxi) tList.toArray()[j]).getTimeElapsed()+"\n";
 						bw.append(content);
+						}
 						((Requests) rList.toArray()[i]).setStatus(true);
 						//System.out.println("Request satisfied count: "+(++satisfied));
+						if(MT2013127.outputFlag == 1){
 						content = "Request satisfied count: "+(++satisfied)+"\n";
 						bw.append(content);
 						//System.out.println("*******************************");
 						content = "*******************************\n";
 						bw.append(content);
+						}
 						//System.out.println(((Taxi) tList.toArray()[j]).getTaxiID()+" "+((Taxi) tList.toArray()[j]).getCurrentLoc()+" "+((Taxi) tList.toArray()[j]).getTimeElapsed()+" "+((Taxi) tList.toArray()[j]).getNoOfPassengers());
 						((Taxi) tList.toArray()[j]).taxiBuffer.append("("+((Taxi) tList.toArray()[j]).getCurrentLoc()+" "+((Taxi) tList.toArray()[j]).getTimeElapsed()+")");
 				}//end if location match
@@ -130,7 +140,9 @@ public class Scheduler {
 		k++;
 		//System.out.println(k);
 		}
+		if(MT2013127.outputFlag == 1){
 		bw.close();
+		}
 		for(int i = 0; i < tList.size(); i++){
 			((Taxi) tList.toArray()[i]).taxiBuffer.append(((Taxi) tList.toArray()[i]).getRevenueEarned());
 			income = income + ((Taxi) tList.toArray()[i]).getRevenueEarned();

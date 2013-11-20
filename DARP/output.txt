@@ -7,11 +7,11 @@ Time of pick up: 2
 Request satisfied count: 1
 *******************************
 Request number: 2
-Found a taxi: 5 
+Found a taxi: 1 
 no of passengers in: 1 
 Cost of ride15 
 Revenue earned: 15
-Time of pick up: 22
+Time of pick up: 27
 Request satisfied count: 2
 *******************************
 Request number: 4
@@ -19,40 +19,48 @@ Found a taxi: 2
 no of passengers in: 1 
 Cost of ride39 
 Revenue earned: 39
-Time of pick up: 57
+Time of pick up: 53
 Request satisfied count: 3
 *******************************
-Request number: 5
+Request number: 10
 Found a taxi: 5 
 no of passengers in: 1 
-Cost of ride17 
-Revenue earned: 32
-Time of pick up: 61
+Cost of ride20 
+Revenue earned: 20
+Time of pick up: 79
 Request satisfied count: 4
 *******************************
-Request number: 6
+Request number: 15
 Found a taxi: 2 
 no of passengers in: 2 
-Cost of ride30 
-Revenue earned: 69
-Time of pick up: 68
+Cost of ride20 
+Revenue earned: 59
+Time of pick up: 118
 Request satisfied count: 5
 *******************************
-Request number: 12
-Found a taxi: 5 
-no of passengers in: 2 
-Cost of ride29 
-Revenue earned: 61
-Time of pick up: 92
+Request number: 13
+Found a taxi: 9 
+no of passengers in: 1 
+Cost of ride15 
+Revenue earned: 15
+Time of pick up: 107
 Request satisfied count: 6
 *******************************
 Request number: 19
 Found a taxi: 1 
-no of passengers in: 1 
+no of passengers in: 2 
 Cost of ride10 
-Revenue earned: 10
-Time of pick up: 148
+Revenue earned: 25
+Time of pick up: 146
 Request satisfied count: 7
+*******************************
+Request number: 17
+Found a taxi: 5 
+no of passengers in: 2 
+Cost of ride34 
+Revenue earned: 54
+Time of pick up: 123
+Request satisfied count: 8
 *******************************
 Request number: 14
 Found a taxi: 8 
@@ -60,2061 +68,1941 @@ no of passengers in: 2
 Cost of ride44 
 Revenue earned: 71
 Time of pick up: 104
-Request satisfied count: 8
-*******************************
-Request number: 17
-Found a taxi: 8 
-no of passengers in: 3 
-Cost of ride34 
-Revenue earned: 105
-Time of pick up: 124
 Request satisfied count: 9
 *******************************
-Request number: 32
-Found a taxi: 5 
-no of passengers in: 2 
-Cost of ride23 
-Revenue earned: 84
-Time of pick up: 211
-Request satisfied count: 10
-*******************************
-Request number: 29
-Found a taxi: 5 
-no of passengers in: 3 
-Cost of ride36 
-Revenue earned: 120
-Time of pick up: 221
-Request satisfied count: 11
-*******************************
 Request number: 20
-Found a taxi: 6 
+Found a taxi: 0 
 no of passengers in: 1 
 Cost of ride44 
 Revenue earned: 44
-Time of pick up: 151
-Request satisfied count: 12
+Time of pick up: 149
+Request satisfied count: 10
 *******************************
-Request number: 33
-Found a taxi: 1 
-no of passengers in: 2 
-Cost of ride34 
-Revenue earned: 44
-Time of pick up: 225
-Request satisfied count: 13
-*******************************
-Request number: 38
-Found a taxi: 5 
-no of passengers in: 4 
-Cost of ride42 
-Revenue earned: 162
-Time of pick up: 257
-Request satisfied count: 14
+Request number: 26
+Found a taxi: 4 
+no of passengers in: 1 
+Cost of ride26 
+Revenue earned: 26
+Time of pick up: 187
+Request satisfied count: 11
 *******************************
 Request number: 25
-Found a taxi: 8 
-no of passengers in: 4 
+Found a taxi: 5 
+no of passengers in: 3 
 Cost of ride36 
-Revenue earned: 141
-Time of pick up: 180
+Revenue earned: 90
+Time of pick up: 184
+Request satisfied count: 12
+*******************************
+Request number: 27
+Found a taxi: 7 
+no of passengers in: 1 
+Cost of ride22 
+Revenue earned: 22
+Time of pick up: 201
+Request satisfied count: 13
+*******************************
+Request number: 35
+Found a taxi: 3 
+no of passengers in: 1 
+Cost of ride27 
+Revenue earned: 27
+Time of pick up: 248
+Request satisfied count: 14
+*******************************
+Request number: 41
+Found a taxi: 3 
+no of passengers in: 2 
+Cost of ride14 
+Revenue earned: 41
+Time of pick up: 267
 Request satisfied count: 15
 *******************************
-Request number: 68
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride15 
-Revenue earned: 177
-Time of pick up: 322
+Request number: 47
+Found a taxi: 3 
+no of passengers in: 3 
+Cost of ride7 
+Revenue earned: 48
+Time of pick up: 294
 Request satisfied count: 16
 *******************************
-Request number: 57
+Request number: 44
 Found a taxi: 1 
 no of passengers in: 3 
-Cost of ride6 
-Revenue earned: 50
-Time of pick up: 315
+Cost of ride13 
+Revenue earned: 38
+Time of pick up: 283
 Request satisfied count: 17
 *******************************
-Request number: 48
-Found a taxi: 9 
-no of passengers in: 1 
-Cost of ride14 
-Revenue earned: 14
-Time of pick up: 289
+Request number: 42
+Found a taxi: 7 
+no of passengers in: 2 
+Cost of ride16 
+Revenue earned: 38
+Time of pick up: 272
 Request satisfied count: 18
 *******************************
-Request number: 66
+Request number: 51
 Found a taxi: 1 
 no of passengers in: 4 
-Cost of ride8 
-Revenue earned: 58
-Time of pick up: 323
+Cost of ride22 
+Revenue earned: 60
+Time of pick up: 295
 Request satisfied count: 19
 *******************************
-Request number: 107
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride3 
-Revenue earned: 180
-Time of pick up: 379
+Request number: 80
+Found a taxi: 3 
+no of passengers in: 3 
+Cost of ride29 
+Revenue earned: 77
+Time of pick up: 339
 Request satisfied count: 20
 *******************************
-Request number: 119
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride2 
-Revenue earned: 182
-Time of pick up: 386
-Request satisfied count: 21
-*******************************
-Request number: 67
+Request number: 77
 Found a taxi: 1 
 no of passengers in: 5 
-Cost of ride24 
-Revenue earned: 82
-Time of pick up: 337
+Cost of ride21 
+Revenue earned: 81
+Time of pick up: 335
+Request satisfied count: 21
+*******************************
+Request number: 73
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride14 
+Revenue earned: 95
+Time of pick up: 346
 Request satisfied count: 22
 *******************************
 Request number: 84
 Found a taxi: 1 
 no of passengers in: 5 
 Cost of ride9 
-Revenue earned: 91
-Time of pick up: 362
+Revenue earned: 104
+Time of pick up: 361
 Request satisfied count: 23
-*******************************
-Request number: 110
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride6 
-Revenue earned: 188
-Time of pick up: 391
-Request satisfied count: 24
 *******************************
 Request number: 122
 Found a taxi: 1 
 no of passengers in: 5 
 Cost of ride29 
-Revenue earned: 120
-Time of pick up: 412
+Revenue earned: 133
+Time of pick up: 393
+Request satisfied count: 24
+*******************************
+Request number: 43
+Found a taxi: 6 
+no of passengers in: 1 
+Cost of ride43 
+Revenue earned: 43
+Time of pick up: 275
 Request satisfied count: 25
 *******************************
-Request number: 177
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride7 
-Revenue earned: 127
-Time of pick up: 453
+Request number: 89
+Found a taxi: 7 
+no of passengers in: 3 
+Cost of ride55 
+Revenue earned: 93
+Time of pick up: 351
 Request satisfied count: 26
 *******************************
-Request number: 52
+Request number: 76
 Found a taxi: 0 
-no of passengers in: 1 
-Cost of ride27 
-Revenue earned: 27
-Time of pick up: 307
+no of passengers in: 2 
+Cost of ride18 
+Revenue earned: 62
+Time of pick up: 334
 Request satisfied count: 27
 *******************************
-Request number: 151
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride7 
-Revenue earned: 195
-Time of pick up: 424
+Request number: 93
+Found a taxi: 7 
+no of passengers in: 4 
+Cost of ride25 
+Revenue earned: 118
+Time of pick up: 371
 Request satisfied count: 28
+*******************************
+Request number: 116
+Found a taxi: 3 
+no of passengers in: 4 
+Cost of ride36 
+Revenue earned: 113
+Time of pick up: 382
+Request satisfied count: 29
+*******************************
+Request number: 120
+Found a taxi: 3 
+no of passengers in: 5 
+Cost of ride42 
+Revenue earned: 155
+Time of pick up: 392
+Request satisfied count: 30
+*******************************
+Request number: 182
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride8 
+Revenue earned: 141
+Time of pick up: 457
+Request satisfied count: 31
 *******************************
 Request number: 196
 Found a taxi: 1 
 no of passengers in: 5 
 Cost of ride9 
-Revenue earned: 136
-Time of pick up: 469
-Request satisfied count: 29
+Revenue earned: 150
+Time of pick up: 470
+Request satisfied count: 32
 *******************************
-Request number: 62
-Found a taxi: 9 
-no of passengers in: 2 
-Cost of ride12 
-Revenue earned: 26
-Time of pick up: 317
-Request satisfied count: 30
-*******************************
-Request number: 158
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 204
-Time of pick up: 436
-Request satisfied count: 31
+Request number: 52
+Found a taxi: 8 
+no of passengers in: 3 
+Cost of ride27 
+Revenue earned: 98
+Time of pick up: 296
+Request satisfied count: 33
 *******************************
 Request number: 213
 Found a taxi: 1 
 no of passengers in: 5 
 Cost of ride9 
-Revenue earned: 145
-Time of pick up: 497
-Request satisfied count: 32
-*******************************
-Request number: 191
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 213
-Time of pick up: 468
-Request satisfied count: 33
-*******************************
-Request number: 235
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride17 
-Revenue earned: 162
-Time of pick up: 519
+Revenue earned: 159
+Time of pick up: 499
 Request satisfied count: 34
+*******************************
+Request number: 98
+Found a taxi: 9 
+no of passengers in: 2 
+Cost of ride52 
+Revenue earned: 67
+Time of pick up: 366
+Request satisfied count: 35
 *******************************
 Request number: 258
 Found a taxi: 1 
 no of passengers in: 5 
 Cost of ride11 
-Revenue earned: 173
-Time of pick up: 546
-Request satisfied count: 35
-*******************************
-Request number: 293
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 182
-Time of pick up: 570
+Revenue earned: 170
+Time of pick up: 537
 Request satisfied count: 36
-*******************************
-Request number: 93
-Found a taxi: 9 
-no of passengers in: 3 
-Cost of ride25 
-Revenue earned: 51
-Time of pick up: 369
-Request satisfied count: 37
-*******************************
-Request number: 98
-Found a taxi: 9 
-no of passengers in: 4 
-Cost of ride52 
-Revenue earned: 103
-Time of pick up: 369
-Request satisfied count: 38
-*******************************
-Request number: 243
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride3 
-Revenue earned: 216
-Time of pick up: 518
-Request satisfied count: 39
-*******************************
-Request number: 86
-Found a taxi: 2 
-no of passengers in: 3 
-Cost of ride2 
-Revenue earned: 71
-Time of pick up: 355
-Request satisfied count: 40
-*******************************
-Request number: 250
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride1 
-Revenue earned: 217
-Time of pick up: 525
-Request satisfied count: 41
-*******************************
-Request number: 296
-Found a taxi: 1 
-no of passengers in: 4 
-Cost of ride2 
-Revenue earned: 184
-Time of pick up: 581
-Request satisfied count: 42
-*******************************
-Request number: 135
-Found a taxi: 4 
-no of passengers in: 1 
-Cost of ride9 
-Revenue earned: 9
-Time of pick up: 407
-Request satisfied count: 43
 *******************************
 Request number: 65
 Found a taxi: 6 
 no of passengers in: 2 
 Cost of ride34 
-Revenue earned: 78
-Time of pick up: 317
-Request satisfied count: 44
+Revenue earned: 77
+Time of pick up: 319
+Request satisfied count: 37
 *******************************
-Request number: 146
-Found a taxi: 4 
-no of passengers in: 2 
-Cost of ride15 
-Revenue earned: 24
-Time of pick up: 418
-Request satisfied count: 45
-*******************************
-Request number: 157
-Found a taxi: 4 
-no of passengers in: 3 
+Request number: 130
+Found a taxi: 7 
+no of passengers in: 5 
 Cost of ride14 
-Revenue earned: 38
-Time of pick up: 426
-Request satisfied count: 46
-*******************************
-Request number: 79
-Found a taxi: 6 
-no of passengers in: 3 
-Cost of ride5 
-Revenue earned: 83
-Time of pick up: 342
-Request satisfied count: 47
-*******************************
-Request number: 92
-Found a taxi: 2 
-no of passengers in: 4 
-Cost of ride3 
-Revenue earned: 74
-Time of pick up: 366
-Request satisfied count: 48
-*******************************
-Request number: 267
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride1 
-Revenue earned: 218
-Time of pick up: 538
-Request satisfied count: 49
-*******************************
-Request number: 168
-Found a taxi: 4 
-no of passengers in: 4 
-Cost of ride20 
-Revenue earned: 58
-Time of pick up: 445
-Request satisfied count: 50
-*******************************
-Request number: 329
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 195
-Time of pick up: 599
-Request satisfied count: 51
-*******************************
-Request number: 89
-Found a taxi: 7 
-no of passengers in: 1 
-Cost of ride55 
-Revenue earned: 55
-Time of pick up: 351
-Request satisfied count: 52
-*******************************
-Request number: 121
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride30 
-Revenue earned: 104
-Time of pick up: 394
-Request satisfied count: 53
-*******************************
-Request number: 155
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride20 
-Revenue earned: 123
-Time of pick up: 424
-Request satisfied count: 54
-*******************************
-Request number: 185
-Found a taxi: 4 
-no of passengers in: 5 
-Cost of ride5 
-Revenue earned: 63
-Time of pick up: 461
-Request satisfied count: 55
-*******************************
-Request number: 112
-Found a taxi: 0 
-no of passengers in: 2 
-Cost of ride30 
-Revenue earned: 57
-Time of pick up: 385
-Request satisfied count: 56
-*******************************
-Request number: 111
-Found a taxi: 6 
-no of passengers in: 3 
-Cost of ride50 
-Revenue earned: 133
-Time of pick up: 383
-Request satisfied count: 57
-*******************************
-Request number: 162
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride13 
-Revenue earned: 117
-Time of pick up: 438
-Request satisfied count: 58
-*******************************
-Request number: 339
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride7 
-Revenue earned: 202
-Time of pick up: 624
-Request satisfied count: 59
-*******************************
-Request number: 175
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride52 
-Revenue earned: 169
-Time of pick up: 452
-Request satisfied count: 60
-*******************************
-Request number: 360
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 211
-Time of pick up: 638
-Request satisfied count: 61
-*******************************
-Request number: 230
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride26 
-Revenue earned: 195
-Time of pick up: 513
-Request satisfied count: 62
-*******************************
-Request number: 388
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride5 
-Revenue earned: 216
-Time of pick up: 656
-Request satisfied count: 63
-*******************************
-Request number: 80
-Found a taxi: 3 
-no of passengers in: 1 
-Cost of ride29 
-Revenue earned: 29
-Time of pick up: 339
-Request satisfied count: 64
-*******************************
-Request number: 266
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride24 
-Revenue earned: 242
-Time of pick up: 561
-Request satisfied count: 65
-*******************************
-Request number: 275
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 204
-Time of pick up: 545
-Request satisfied count: 66
-*******************************
-Request number: 215
-Found a taxi: 4 
-no of passengers in: 5 
-Cost of ride2 
-Revenue earned: 65
-Time of pick up: 493
-Request satisfied count: 67
-*******************************
-Request number: 395
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 227
-Time of pick up: 666
-Request satisfied count: 68
-*******************************
-Request number: 108
-Found a taxi: 7 
-no of passengers in: 2 
-Cost of ride43 
-Revenue earned: 98
-Time of pick up: 381
-Request satisfied count: 69
-*******************************
-Request number: 127
-Found a taxi: 0 
-no of passengers in: 3 
-Cost of ride18 
-Revenue earned: 75
-Time of pick up: 411
-Request satisfied count: 70
-*******************************
-Request number: 193
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 134
-Time of pick up: 477
-Request satisfied count: 71
-*******************************
-Request number: 141
-Found a taxi: 6 
-no of passengers in: 4 
-Cost of ride54 
-Revenue earned: 187
-Time of pick up: 410
-Request satisfied count: 72
-*******************************
-Request number: 204
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride56 
-Revenue earned: 190
-Time of pick up: 488
-Request satisfied count: 73
-*******************************
-Request number: 143
-Found a taxi: 0 
-no of passengers in: 4 
-Cost of ride17 
-Revenue earned: 92
-Time of pick up: 419
-Request satisfied count: 74
-*******************************
-Request number: 94
-Found a taxi: 8 
-no of passengers in: 5 
-Cost of ride36 
-Revenue earned: 177
-Time of pick up: 367
-Request satisfied count: 75
-*******************************
-Request number: 154
-Found a taxi: 0 
-no of passengers in: 4 
-Cost of ride20 
-Revenue earned: 112
-Time of pick up: 429
-Request satisfied count: 76
-*******************************
-Request number: 159
-Found a taxi: 6 
-no of passengers in: 5 
-Cost of ride4 
-Revenue earned: 191
-Time of pick up: 436
-Request satisfied count: 77
-*******************************
-Request number: 161
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride20 
 Revenue earned: 132
-Time of pick up: 434
-Request satisfied count: 78
-*******************************
-Request number: 165
-Found a taxi: 6 
-no of passengers in: 5 
-Cost of ride3 
-Revenue earned: 194
-Time of pick up: 452
-Request satisfied count: 79
-*******************************
-Request number: 99
-Found a taxi: 3 
-no of passengers in: 2 
-Cost of ride53 
-Revenue earned: 82
-Time of pick up: 370
-Request satisfied count: 80
-*******************************
-Request number: 173
-Found a taxi: 6 
-no of passengers in: 5 
-Cost of ride4 
-Revenue earned: 198
-Time of pick up: 457
-Request satisfied count: 81
-*******************************
-Request number: 295
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride52 
-Revenue earned: 242
-Time of pick up: 568
-Request satisfied count: 82
-*******************************
-Request number: 105
-Found a taxi: 3 
-no of passengers in: 3 
-Cost of ride42 
-Revenue earned: 124
-Time of pick up: 377
-Request satisfied count: 83
-*******************************
-Request number: 150
-Found a taxi: 8 
-no of passengers in: 5 
-Cost of ride14 
-Revenue earned: 191
-Time of pick up: 420
-Request satisfied count: 84
-*******************************
-Request number: 199
-Found a taxi: 6 
-no of passengers in: 5 
-Cost of ride49 
-Revenue earned: 247
-Time of pick up: 472
-Request satisfied count: 85
+Time of pick up: 412
+Request satisfied count: 38
 *******************************
 Request number: 273
-Found a taxi: 4 
+Found a taxi: 1 
 no of passengers in: 5 
 Cost of ride7 
-Revenue earned: 72
-Time of pick up: 547
-Request satisfied count: 86
+Revenue earned: 177
+Time of pick up: 564
+Request satisfied count: 39
 *******************************
-Request number: 446
-Found a taxi: 1 
-no of passengers in: 4 
+Request number: 86
+Found a taxi: 4 
+no of passengers in: 2 
 Cost of ride2 
-Revenue earned: 229
-Time of pick up: 727
-Request satisfied count: 87
+Revenue earned: 28
+Time of pick up: 353
+Request satisfied count: 40
 *******************************
-Request number: 451
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 240
-Time of pick up: 727
-Request satisfied count: 88
-*******************************
-Request number: 212
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride14 
-Revenue earned: 146
-Time of pick up: 495
-Request satisfied count: 89
-*******************************
-Request number: 184
-Found a taxi: 8 
-no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 202
-Time of pick up: 463
-Request satisfied count: 90
-*******************************
-Request number: 466
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride3 
-Revenue earned: 243
-Time of pick up: 746
-Request satisfied count: 91
-*******************************
-Request number: 190
-Found a taxi: 8 
-no of passengers in: 5 
-Cost of ride54 
-Revenue earned: 256
-Time of pick up: 474
-Request satisfied count: 92
-*******************************
-Request number: 237
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 157
-Time of pick up: 511
-Request satisfied count: 93
-*******************************
-Request number: 300
-Found a taxi: 4 
-no of passengers in: 5 
-Cost of ride16 
-Revenue earned: 88
-Time of pick up: 575
-Request satisfied count: 94
-*******************************
-Request number: 261
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride3 
-Revenue earned: 160
-Time of pick up: 533
-Request satisfied count: 95
-*******************************
-Request number: 317
-Found a taxi: 4 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 97
-Time of pick up: 594
-Request satisfied count: 96
-*******************************
-Request number: 370
+Request number: 106
 Found a taxi: 9 
-no of passengers in: 4 
-Cost of ride37 
-Revenue earned: 279
-Time of pick up: 658
-Request satisfied count: 97
+no of passengers in: 3 
+Cost of ride45 
+Revenue earned: 112
+Time of pick up: 378
+Request satisfied count: 41
 *******************************
-Request number: 488
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride5 
-Revenue earned: 248
-Time of pick up: 763
-Request satisfied count: 98
-*******************************
-Request number: 223
-Found a taxi: 8 
-no of passengers in: 5 
-Cost of ride41 
-Revenue earned: 297
-Time of pick up: 498
-Request satisfied count: 99
-*******************************
-Request number: 387
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 288
-Time of pick up: 668
-Request satisfied count: 100
-*******************************
-Request number: 495
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride1 
-Revenue earned: 249
-Time of pick up: 781
-Request satisfied count: 101
-*******************************
-Request number: 406
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride49 
-Revenue earned: 337
-Time of pick up: 677
-Request satisfied count: 102
-*******************************
-Request number: 454
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride51 
-Revenue earned: 388
-Time of pick up: 730
-Request satisfied count: 103
-*******************************
-Request number: 511
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 260
-Time of pick up: 786
-Request satisfied count: 104
-*******************************
-Request number: 313
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride3 
-Revenue earned: 163
-Time of pick up: 586
-Request satisfied count: 105
-*******************************
-Request number: 372
-Found a taxi: 4 
-no of passengers in: 4 
-Cost of ride13 
-Revenue earned: 110
-Time of pick up: 645
-Request satisfied count: 106
-*******************************
-Request number: 530
-Found a taxi: 1 
+Request number: 149
+Found a taxi: 7 
 no of passengers in: 5 
 Cost of ride17 
-Revenue earned: 277
-Time of pick up: 814
-Request satisfied count: 107
+Revenue earned: 149
+Time of pick up: 437
+Request satisfied count: 42
 *******************************
-Request number: 545
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride12 
-Revenue earned: 289
-Time of pick up: 841
-Request satisfied count: 108
-*******************************
-Request number: 290
-Found a taxi: 6 
-no of passengers in: 4 
-Cost of ride13 
-Revenue earned: 260
-Time of pick up: 566
-Request satisfied count: 109
-*******************************
-Request number: 292
-Found a taxi: 6 
-no of passengers in: 5 
-Cost of ride64 
-Revenue earned: 324
-Time of pick up: 566
-Request satisfied count: 110
-*******************************
-Request number: 376
+Request number: 90
 Found a taxi: 4 
-no of passengers in: 5 
-Cost of ride6 
-Revenue earned: 116
-Time of pick up: 657
-Request satisfied count: 111
+no of passengers in: 3 
+Cost of ride35 
+Revenue earned: 63
+Time of pick up: 357
+Request satisfied count: 43
 *******************************
-Request number: 570
+Request number: 313
 Found a taxi: 1 
 no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 298
-Time of pick up: 864
-Request satisfied count: 112
+Cost of ride3 
+Revenue earned: 180
+Time of pick up: 589
+Request satisfied count: 44
 *******************************
-Request number: 338
+Request number: 107
 Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride5 
-Revenue earned: 168
-Time of pick up: 613
-Request satisfied count: 113
+no of passengers in: 3 
+Cost of ride3 
+Revenue earned: 65
+Time of pick up: 374
+Request satisfied count: 45
 *******************************
-Request number: 592
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride49 
-Revenue earned: 347
-Time of pick up: 878
-Request satisfied count: 114
+Request number: 126
+Found a taxi: 9 
+no of passengers in: 4 
+Cost of ride28 
+Revenue earned: 140
+Time of pick up: 397
+Request satisfied count: 46
 *******************************
-Request number: 310
-Found a taxi: 8 
+Request number: 181
+Found a taxi: 3 
 no of passengers in: 5 
-Cost of ride53 
-Revenue earned: 350
-Time of pick up: 583
-Request satisfied count: 115
+Cost of ride8 
+Revenue earned: 163
+Time of pick up: 467
+Request satisfied count: 47
 *******************************
-Request number: 365
+Request number: 195
+Found a taxi: 7 
+no of passengers in: 5 
+Cost of ride14 
+Revenue earned: 163
+Time of pick up: 473
+Request satisfied count: 48
+*******************************
+Request number: 92
+Found a taxi: 4 
+no of passengers in: 4 
+Cost of ride3 
+Revenue earned: 66
+Time of pick up: 362
+Request satisfied count: 49
+*******************************
+Request number: 111
 Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride4 
-Revenue earned: 172
-Time of pick up: 636
-Request satisfied count: 116
+no of passengers in: 4 
+Cost of ride50 
+Revenue earned: 115
+Time of pick up: 377
+Request satisfied count: 50
 *******************************
-Request number: 634
-Found a taxi: 1 
+Request number: 190
+Found a taxi: 3 
 no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 356
-Time of pick up: 931
-Request satisfied count: 117
-*******************************
-Request number: 366
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride23 
-Revenue earned: 195
-Time of pick up: 640
-Request satisfied count: 118
+Cost of ride54 
+Revenue earned: 217
+Time of pick up: 475
+Request satisfied count: 51
 *******************************
 Request number: 211
 Found a taxi: 7 
-no of passengers in: 3 
+no of passengers in: 5 
 Cost of ride51 
-Revenue earned: 149
+Revenue earned: 214
 Time of pick up: 488
-Request satisfied count: 119
-*******************************
-Request number: 413
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride16 
-Revenue earned: 258
-Time of pick up: 699
-Request satisfied count: 120
-*******************************
-Request number: 529
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride4 
-Revenue earned: 392
-Time of pick up: 827
-Request satisfied count: 121
-*******************************
-Request number: 393
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride17 
-Revenue earned: 212
-Time of pick up: 672
-Request satisfied count: 122
-*******************************
-Request number: 542
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride2 
-Revenue earned: 394
-Time of pick up: 831
-Request satisfied count: 123
-*******************************
-Request number: 698
-Found a taxi: 1 
-no of passengers in: 4 
-Cost of ride11 
-Revenue earned: 367
-Time of pick up: 981
-Request satisfied count: 124
-*******************************
-Request number: 221
-Found a taxi: 7 
-no of passengers in: 4 
-Cost of ride9 
-Revenue earned: 158
-Time of pick up: 496
-Request satisfied count: 125
-*******************************
-Request number: 408
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride3 
-Revenue earned: 215
-Time of pick up: 699
-Request satisfied count: 126
-*******************************
-Request number: 225
-Found a taxi: 7 
-no of passengers in: 5 
-Cost of ride6 
-Revenue earned: 164
-Time of pick up: 503
-Request satisfied count: 127
-*******************************
-Request number: 562
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride3 
-Revenue earned: 397
-Time of pick up: 839
-Request satisfied count: 128
+Request satisfied count: 52
 *******************************
 Request number: 255
 Found a taxi: 7 
 no of passengers in: 5 
 Cost of ride39 
-Revenue earned: 203
-Time of pick up: 526
-Request satisfied count: 129
+Revenue earned: 253
+Time of pick up: 528
+Request satisfied count: 53
 *******************************
-Request number: 461
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride21 
-Revenue earned: 279
-Time of pick up: 734
-Request satisfied count: 130
-*******************************
-Request number: 181
-Found a taxi: 3 
+Request number: 329
+Found a taxi: 1 
 no of passengers in: 4 
-Cost of ride8 
-Revenue earned: 132
-Time of pick up: 470
-Request satisfied count: 131
+Cost of ride11 
+Revenue earned: 191
+Time of pick up: 598
+Request satisfied count: 54
 *******************************
-Request number: 500
-Found a taxi: 5 
+Request number: 330
+Found a taxi: 1 
 no of passengers in: 5 
-Cost of ride6 
-Revenue earned: 285
-Time of pick up: 776
-Request satisfied count: 132
-*******************************
-Request number: 509
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 294
-Time of pick up: 796
-Request satisfied count: 133
-*******************************
-Request number: 469
-Found a taxi: 4 
-no of passengers in: 4 
-Cost of ride9 
-Revenue earned: 125
-Time of pick up: 749
-Request satisfied count: 134
-*******************************
-Request number: 206
-Found a taxi: 3 
-no of passengers in: 4 
-Cost of ride20 
-Revenue earned: 152
-Time of pick up: 489
-Request satisfied count: 135
-*******************************
-Request number: 209
-Found a taxi: 3 
-no of passengers in: 5 
-Cost of ride43 
+Cost of ride4 
 Revenue earned: 195
-Time of pick up: 489
-Request satisfied count: 136
+Time of pick up: 600
+Request satisfied count: 55
+*******************************
+Request number: 124
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride44 
+Revenue earned: 159
+Time of pick up: 393
+Request satisfied count: 56
 *******************************
 Request number: 299
 Found a taxi: 7 
 no of passengers in: 5 
 Cost of ride55 
-Revenue earned: 258
-Time of pick up: 574
-Request satisfied count: 137
+Revenue earned: 308
+Time of pick up: 576
+Request satisfied count: 57
 *******************************
-Request number: 397
-Found a taxi: 6 
+Request number: 338
+Found a taxi: 1 
 no of passengers in: 5 
-Cost of ride8 
-Revenue earned: 332
-Time of pick up: 677
-Request satisfied count: 138
+Cost of ride5 
+Revenue earned: 200
+Time of pick up: 614
+Request satisfied count: 58
 *******************************
-Request number: 484
+Request number: 108
+Found a taxi: 6 
+no of passengers in: 3 
+Cost of ride43 
+Revenue earned: 120
+Time of pick up: 377
+Request satisfied count: 59
+*******************************
+Request number: 94
+Found a taxi: 5 
+no of passengers in: 4 
+Cost of ride36 
+Revenue earned: 126
+Time of pick up: 362
+Request satisfied count: 60
+*******************************
+Request number: 183
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride14 
+Revenue earned: 173
+Time of pick up: 460
+Request satisfied count: 61
+*******************************
+Request number: 344
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride2 
+Revenue earned: 202
+Time of pick up: 623
+Request satisfied count: 62
+*******************************
+Request number: 99
+Found a taxi: 8 
+no of passengers in: 4 
+Cost of ride53 
+Revenue earned: 151
+Time of pick up: 366
+Request satisfied count: 63
+*******************************
+Request number: 105
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride42 
+Revenue earned: 168
+Time of pick up: 374
+Request satisfied count: 64
+*******************************
+Request number: 204
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride56 
+Revenue earned: 229
+Time of pick up: 488
+Request satisfied count: 65
+*******************************
+Request number: 261
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride3 
+Revenue earned: 232
+Time of pick up: 549
+Request satisfied count: 66
+*******************************
+Request number: 184
+Found a taxi: 2 
+no of passengers in: 3 
+Cost of ride11 
+Revenue earned: 70
+Time of pick up: 455
+Request satisfied count: 67
+*******************************
+Request number: 307
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride4 
+Revenue earned: 236
+Time of pick up: 590
+Request satisfied count: 68
+*******************************
+Request number: 365
+Found a taxi: 1 
+no of passengers in: 4 
+Cost of ride4 
+Revenue earned: 206
+Time of pick up: 637
+Request satisfied count: 69
+*******************************
+Request number: 141
+Found a taxi: 6 
+no of passengers in: 4 
+Cost of ride54 
+Revenue earned: 174
+Time of pick up: 411
+Request satisfied count: 70
+*******************************
+Request number: 164
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride27 
+Revenue earned: 195
+Time of pick up: 435
+Request satisfied count: 71
+*******************************
+Request number: 112
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride30 
+Revenue earned: 181
+Time of pick up: 387
+Request satisfied count: 72
+*******************************
+Request number: 412
+Found a taxi: 7 
+no of passengers in: 4 
+Cost of ride51 
+Revenue earned: 359
+Time of pick up: 687
+Request satisfied count: 73
+*******************************
+Request number: 146
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride15 
+Revenue earned: 196
+Time of pick up: 423
+Request satisfied count: 74
+*******************************
+Request number: 154
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride20 
+Revenue earned: 216
+Time of pick up: 425
+Request satisfied count: 75
+*******************************
+Request number: 187
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride24 
+Revenue earned: 219
+Time of pick up: 479
+Request satisfied count: 76
+*******************************
+Request number: 198
+Found a taxi: 2 
+no of passengers in: 4 
+Cost of ride19 
+Revenue earned: 89
+Time of pick up: 485
+Request satisfied count: 77
+*******************************
+Request number: 376
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride6 
+Revenue earned: 212
+Time of pick up: 660
+Request satisfied count: 78
+*******************************
+Request number: 388
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride5 
+Revenue earned: 217
+Time of pick up: 668
+Request satisfied count: 79
+*******************************
+Request number: 221
+Found a taxi: 2 
+no of passengers in: 5 
+Cost of ride9 
+Revenue earned: 98
+Time of pick up: 502
+Request satisfied count: 80
+*******************************
+Request number: 244
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride15 
+Revenue earned: 234
+Time of pick up: 518
+Request satisfied count: 81
+*******************************
+Request number: 197
 Found a taxi: 4 
 no of passengers in: 4 
-Cost of ride16 
-Revenue earned: 141
-Time of pick up: 758
-Request satisfied count: 139
+Cost of ride11 
+Revenue earned: 77
+Time of pick up: 470
+Request satisfied count: 82
+*******************************
+Request number: 264
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride11 
+Revenue earned: 245
+Time of pick up: 549
+Request satisfied count: 83
+*******************************
+Request number: 382
+Found a taxi: 0 
+no of passengers in: 4 
+Cost of ride10 
+Revenue earned: 246
+Time of pick up: 650
+Request satisfied count: 84
+*******************************
+Request number: 447
+Found a taxi: 7 
+no of passengers in: 5 
+Cost of ride23 
+Revenue earned: 382
+Time of pick up: 727
+Request satisfied count: 85
+*******************************
+Request number: 285
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride14 
+Revenue earned: 259
+Time of pick up: 570
+Request satisfied count: 86
+*******************************
+Request number: 386
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride30 
+Revenue earned: 276
+Time of pick up: 652
+Request satisfied count: 87
+*******************************
+Request number: 408
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride3 
+Revenue earned: 279
+Time of pick up: 693
+Request satisfied count: 88
+*******************************
+Request number: 479
+Found a taxi: 7 
+no of passengers in: 5 
+Cost of ride12 
+Revenue earned: 394
+Time of pick up: 754
+Request satisfied count: 89
+*******************************
+Request number: 424
+Found a taxi: 1 
+no of passengers in: 4 
+Cost of ride1 
+Revenue earned: 218
+Time of pick up: 708
+Request satisfied count: 90
+*******************************
+Request number: 232
+Found a taxi: 9 
+no of passengers in: 5 
+Cost of ride31 
+Revenue earned: 171
+Time of pick up: 522
+Request satisfied count: 91
+*******************************
+Request number: 502
+Found a taxi: 7 
+no of passengers in: 5 
+Cost of ride55 
+Revenue earned: 449
+Time of pick up: 776
+Request satisfied count: 92
+*******************************
+Request number: 267
+Found a taxi: 2 
+no of passengers in: 5 
+Cost of ride1 
+Revenue earned: 99
+Time of pick up: 537
+Request satisfied count: 93
+*******************************
+Request number: 199
+Found a taxi: 6 
+no of passengers in: 5 
+Cost of ride49 
+Revenue earned: 223
+Time of pick up: 473
+Request satisfied count: 94
+*******************************
+Request number: 225
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride6 
+Revenue earned: 222
+Time of pick up: 503
+Request satisfied count: 95
+*******************************
+Request number: 295
+Found a taxi: 9 
+no of passengers in: 5 
+Cost of ride52 
+Revenue earned: 223
+Time of pick up: 567
+Request satisfied count: 96
+*******************************
+Request number: 451
+Found a taxi: 1 
+no of passengers in: 4 
+Cost of ride11 
+Revenue earned: 229
+Time of pick up: 725
+Request satisfied count: 97
+*******************************
+Request number: 237
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride11 
+Revenue earned: 233
+Time of pick up: 511
+Request satisfied count: 98
+*******************************
+Request number: 256
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride9 
+Revenue earned: 86
+Time of pick up: 527
+Request satisfied count: 99
+*******************************
+Request number: 402
+Found a taxi: 3 
+no of passengers in: 5 
+Cost of ride11 
+Revenue earned: 228
+Time of pick up: 674
+Request satisfied count: 100
+*******************************
+Request number: 471
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride14 
+Revenue earned: 293
+Time of pick up: 755
+Request satisfied count: 101
+*******************************
+Request number: 459
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride17 
+Revenue earned: 246
+Time of pick up: 736
+Request satisfied count: 102
+*******************************
+Request number: 488
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride5 
+Revenue earned: 298
+Time of pick up: 769
+Request satisfied count: 103
+*******************************
+Request number: 515
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride4 
+Revenue earned: 302
+Time of pick up: 794
+Request satisfied count: 104
+*******************************
+Request number: 290
+Found a taxi: 6 
+no of passengers in: 4 
+Cost of ride13 
+Revenue earned: 236
+Time of pick up: 563
+Request satisfied count: 105
+*******************************
+Request number: 271
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride17 
+Revenue earned: 250
+Time of pick up: 541
+Request satisfied count: 106
+*******************************
+Request number: 292
+Found a taxi: 6 
+no of passengers in: 5 
+Cost of ride64 
+Revenue earned: 300
+Time of pick up: 567
+Request satisfied count: 107
+*******************************
+Request number: 370
+Found a taxi: 9 
+no of passengers in: 3 
+Cost of ride37 
+Revenue earned: 260
+Time of pick up: 646
+Request satisfied count: 108
+*******************************
+Request number: 529
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride4 
+Revenue earned: 306
+Time of pick up: 814
+Request satisfied count: 109
+*******************************
+Request number: 310
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride53 
+Revenue earned: 303
+Time of pick up: 584
+Request satisfied count: 110
+*******************************
+Request number: 598
+Found a taxi: 7 
+no of passengers in: 5 
+Cost of ride8 
+Revenue earned: 457
+Time of pick up: 875
+Request satisfied count: 111
+*******************************
+Request number: 315
+Found a taxi: 2 
+no of passengers in: 3 
+Cost of ride43 
+Revenue earned: 142
+Time of pick up: 589
+Request satisfied count: 112
+*******************************
+Request number: 354
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride19 
+Revenue earned: 105
+Time of pick up: 628
+Request satisfied count: 113
+*******************************
+Request number: 497
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride13 
+Revenue earned: 259
+Time of pick up: 776
+Request satisfied count: 114
+*******************************
+Request number: 542
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride2 
+Revenue earned: 308
+Time of pick up: 832
+Request satisfied count: 115
+*******************************
+Request number: 511
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride11 
+Revenue earned: 270
+Time of pick up: 794
+Request satisfied count: 116
+*******************************
+Request number: 562
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride3 
+Revenue earned: 311
+Time of pick up: 847
+Request satisfied count: 117
+*******************************
+Request number: 375
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride39 
+Revenue earned: 144
+Time of pick up: 652
+Request satisfied count: 118
+*******************************
+Request number: 614
+Found a taxi: 7 
+no of passengers in: 5 
+Cost of ride54 
+Revenue earned: 511
+Time of pick up: 891
+Request satisfied count: 119
+*******************************
+Request number: 443
+Found a taxi: 3 
+no of passengers in: 5 
+Cost of ride27 
+Revenue earned: 255
+Time of pick up: 728
+Request satisfied count: 120
+*******************************
+Request number: 406
+Found a taxi: 6 
+no of passengers in: 4 
+Cost of ride49 
+Revenue earned: 349
+Time of pick up: 674
+Request satisfied count: 121
+*******************************
+Request number: 543
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride17 
+Revenue earned: 287
+Time of pick up: 827
+Request satisfied count: 122
+*******************************
+Request number: 571
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride18 
+Revenue earned: 305
+Time of pick up: 852
+Request satisfied count: 123
+*******************************
+Request number: 416
+Found a taxi: 9 
+no of passengers in: 4 
+Cost of ride40 
+Revenue earned: 300
+Time of pick up: 689
+Request satisfied count: 124
 *******************************
 Request number: 414
 Found a taxi: 6 
 no of passengers in: 5 
 Cost of ride54 
-Revenue earned: 386
-Time of pick up: 691
-Request satisfied count: 140
+Revenue earned: 403
+Time of pick up: 689
+Request satisfied count: 125
 *******************************
-Request number: 541
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride14 
-Revenue earned: 308
-Time of pick up: 824
-Request satisfied count: 141
-*******************************
-Request number: 740
-Found a taxi: 1 
-no of passengers in: 3 
-Cost of ride6 
-Revenue earned: 373
-Time of pick up: 1027
-Request satisfied count: 142
-*******************************
-Request number: 574
-Found a taxi: 5 
-no of passengers in: 4 
-Cost of ride11 
-Revenue earned: 319
-Time of pick up: 849
-Request satisfied count: 143
-*******************************
-Request number: 647
-Found a taxi: 9 
-no of passengers in: 4 
-Cost of ride56 
-Revenue earned: 453
-Time of pick up: 926
-Request satisfied count: 144
-*******************************
-Request number: 489
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride36 
-Revenue earned: 251
-Time of pick up: 769
-Request satisfied count: 145
-*******************************
-Request number: 279
+Request number: 500
 Found a taxi: 3 
 no of passengers in: 5 
-Cost of ride25 
-Revenue earned: 220
-Time of pick up: 552
-Request satisfied count: 146
+Cost of ride6 
+Revenue earned: 261
+Time of pick up: 786
+Request satisfied count: 126
 *******************************
-Request number: 347
-Found a taxi: 7 
-no of passengers in: 3 
-Cost of ride56 
-Revenue earned: 314
-Time of pick up: 631
-Request satisfied count: 147
-*******************************
-Request number: 445
-Found a taxi: 2 
+Request number: 417
+Found a taxi: 9 
 no of passengers in: 5 
-Cost of ride31 
-Revenue earned: 235
-Time of pick up: 721
-Request satisfied count: 148
+Cost of ride26 
+Revenue earned: 326
+Time of pick up: 694
+Request satisfied count: 127
 *******************************
-Request number: 510
+Request number: 509
+Found a taxi: 3 
+no of passengers in: 5 
+Cost of ride9 
+Revenue earned: 270
+Time of pick up: 794
+Request satisfied count: 128
+*******************************
+Request number: 607
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride33 
+Revenue earned: 344
+Time of pick up: 889
+Request satisfied count: 129
+*******************************
+Request number: 454
+Found a taxi: 9 
+no of passengers in: 5 
+Cost of ride51 
+Revenue earned: 377
+Time of pick up: 728
+Request satisfied count: 130
+*******************************
+Request number: 638
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride5 
+Revenue earned: 349
+Time of pick up: 927
+Request satisfied count: 131
+*******************************
+Request number: 696
+Found a taxi: 7 
+no of passengers in: 5 
+Cost of ride11 
+Revenue earned: 522
+Time of pick up: 979
+Request satisfied count: 132
+*******************************
+Request number: 469
 Found a taxi: 4 
 no of passengers in: 5 
-Cost of ride21 
-Revenue earned: 162
-Time of pick up: 782
-Request satisfied count: 149
+Cost of ride9 
+Revenue earned: 153
+Time of pick up: 741
+Request satisfied count: 133
 *******************************
-Request number: 766
-Found a taxi: 1 
-no of passengers in: 3 
-Cost of ride11 
-Revenue earned: 384
-Time of pick up: 1053
-Request satisfied count: 150
-*******************************
-Request number: 325
-Found a taxi: 3 
-no of passengers in: 4 
-Cost of ride17 
-Revenue earned: 237
-Time of pick up: 595
-Request satisfied count: 151
-*******************************
-Request number: 532
-Found a taxi: 0 
+Request number: 709
+Found a taxi: 7 
 no of passengers in: 5 
-Cost of ride53 
-Revenue earned: 304
-Time of pick up: 819
-Request satisfied count: 152
-*******************************
-Request number: 502
-Found a taxi: 6 
-no of passengers in: 4 
 Cost of ride55 
-Revenue earned: 441
-Time of pick up: 777
-Request satisfied count: 153
+Revenue earned: 577
+Time of pick up: 999
+Request satisfied count: 134
 *******************************
-Request number: 323
-Found a taxi: 3 
+Request number: 490
+Found a taxi: 9 
 no of passengers in: 5 
-Cost of ride23 
-Revenue earned: 260
-Time of pick up: 601
-Request satisfied count: 154
+Cost of ride16 
+Revenue earned: 393
+Time of pick up: 775
+Request satisfied count: 135
 *******************************
-Request number: 492
-Found a taxi: 2 
+Request number: 621
+Found a taxi: 1 
 no of passengers in: 5 
 Cost of ride14 
-Revenue earned: 249
-Time of pick up: 781
-Request satisfied count: 155
+Revenue earned: 319
+Time of pick up: 900
+Request satisfied count: 136
 *******************************
-Request number: 769
-Found a taxi: 1 
+Request number: 472
+Found a taxi: 4 
 no of passengers in: 4 
-Cost of ride9 
-Revenue earned: 393
-Time of pick up: 1067
-Request satisfied count: 156
+Cost of ride21 
+Revenue earned: 174
+Time of pick up: 750
+Request satisfied count: 137
 *******************************
-Request number: 359
-Found a taxi: 3 
+Request number: 634
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride9 
+Revenue earned: 328
+Time of pick up: 916
+Request satisfied count: 138
+*******************************
+Request number: 654
+Found a taxi: 0 
 no of passengers in: 5 
 Cost of ride20 
-Revenue earned: 280
-Time of pick up: 636
-Request satisfied count: 157
+Revenue earned: 369
+Time of pick up: 936
+Request satisfied count: 139
 *******************************
-Request number: 436
-Found a taxi: 8 
+Request number: 522
+Found a taxi: 9 
+no of passengers in: 5 
+Cost of ride19 
+Revenue earned: 412
+Time of pick up: 806
+Request satisfied count: 140
+*******************************
+Request number: 525
+Found a taxi: 3 
+no of passengers in: 5 
+Cost of ride4 
+Revenue earned: 274
+Time of pick up: 814
+Request satisfied count: 141
+*******************************
+Request number: 554
+Found a taxi: 9 
+no of passengers in: 5 
+Cost of ride19 
+Revenue earned: 431
+Time of pick up: 831
+Request satisfied count: 142
+*******************************
+Request number: 682
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride8 
+Revenue earned: 336
+Time of pick up: 969
+Request satisfied count: 143
+*******************************
+Request number: 493
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride17 
+Revenue earned: 191
+Time of pick up: 773
+Request satisfied count: 144
+*******************************
+Request number: 567
+Found a taxi: 9 
+no of passengers in: 5 
+Cost of ride14 
+Revenue earned: 445
+Time of pick up: 853
+Request satisfied count: 145
+*******************************
+Request number: 537
+Found a taxi: 3 
 no of passengers in: 4 
-Cost of ride47 
-Revenue earned: 397
-Time of pick up: 716
-Request satisfied count: 158
+Cost of ride9 
+Revenue earned: 283
+Time of pick up: 830
+Request satisfied count: 146
+*******************************
+Request number: 538
+Found a taxi: 3 
+no of passengers in: 5 
+Cost of ride21 
+Revenue earned: 304
+Time of pick up: 830
+Request satisfied count: 147
+*******************************
+Request number: 698
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride11 
+Revenue earned: 347
+Time of pick up: 980
+Request satisfied count: 148
 *******************************
 Request number: 512
 Found a taxi: 6 
 no of passengers in: 5 
 Cost of ride50 
-Revenue earned: 491
+Revenue earned: 453
 Time of pick up: 786
-Request satisfied count: 159
+Request satisfied count: 149
 *******************************
-Request number: 550
-Found a taxi: 4 
-no of passengers in: 4 
-Cost of ride3 
-Revenue earned: 165
-Time of pick up: 830
-Request satisfied count: 160
-*******************************
-Request number: 782
-Found a taxi: 1 
-no of passengers in: 4 
-Cost of ride22 
-Revenue earned: 415
-Time of pick up: 1076
-Request satisfied count: 161
-*******************************
-Request number: 516
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride7 
-Revenue earned: 256
-Time of pick up: 802
-Request satisfied count: 162
-*******************************
-Request number: 556
-Found a taxi: 4 
-no of passengers in: 4 
-Cost of ride13 
-Revenue earned: 178
-Time of pick up: 836
-Request satisfied count: 163
-*******************************
-Request number: 362
-Found a taxi: 7 
-no of passengers in: 4 
-Cost of ride7 
-Revenue earned: 321
-Time of pick up: 652
-Request satisfied count: 164
-*******************************
-Request number: 672
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride52 
-Revenue earned: 505
-Time of pick up: 951
-Request satisfied count: 165
-*******************************
-Request number: 621
-Found a taxi: 0 
-no of passengers in: 5 
+Request number: 401
+Found a taxi: 8 
+no of passengers in: 3 
 Cost of ride14 
-Revenue earned: 318
-Time of pick up: 900
-Request satisfied count: 166
+Revenue earned: 317
+Time of pick up: 678
+Request satisfied count: 150
 *******************************
-Request number: 412
+Request number: 574
 Found a taxi: 3 
 no of passengers in: 5 
-Cost of ride51 
-Revenue earned: 331
-Time of pick up: 689
-Request satisfied count: 167
+Cost of ride11 
+Revenue earned: 315
+Time of pick up: 860
+Request satisfied count: 151
 *******************************
-Request number: 623
+Request number: 802
+Found a taxi: 7 
+no of passengers in: 5 
+Cost of ride51 
+Revenue earned: 628
+Time of pick up: 1092
+Request satisfied count: 152
+*******************************
+Request number: 436
 Found a taxi: 5 
 no of passengers in: 5 
-Cost of ride4 
-Revenue earned: 323
-Time of pick up: 907
-Request satisfied count: 168
+Cost of ride47 
+Revenue earned: 306
+Time of pick up: 713
+Request satisfied count: 153
 *******************************
-Request number: 705
-Found a taxi: 9 
+Request number: 862
+Found a taxi: 7 
 no of passengers in: 5 
-Cost of ride50 
-Revenue earned: 555
-Time of pick up: 992
-Request satisfied count: 169
+Cost of ride41 
+Revenue earned: 669
+Time of pick up: 1164
+Request satisfied count: 154
+*******************************
+Request number: 534
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride18 
+Revenue earned: 209
+Time of pick up: 815
+Request satisfied count: 155
+*******************************
+Request number: 708
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride5 
+Revenue earned: 374
+Time of pick up: 990
+Request satisfied count: 156
 *******************************
 Request number: 523
 Found a taxi: 6 
 no of passengers in: 5 
 Cost of ride43 
-Revenue earned: 534
-Time of pick up: 816
-Request satisfied count: 170
+Revenue earned: 496
+Time of pick up: 804
+Request satisfied count: 157
 *******************************
-Request number: 544
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride30 
-Revenue earned: 286
-Time of pick up: 821
-Request satisfied count: 171
-*******************************
-Request number: 638
-Found a taxi: 0 
-no of passengers in: 4 
-Cost of ride5 
-Revenue earned: 323
-Time of pick up: 915
-Request satisfied count: 172
-*******************************
-Request number: 581
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride14 
-Revenue earned: 300
-Time of pick up: 862
-Request satisfied count: 173
-*******************************
-Request number: 583
+Request number: 550
 Found a taxi: 4 
 no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 187
-Time of pick up: 862
-Request satisfied count: 174
+Cost of ride3 
+Revenue earned: 212
+Time of pick up: 834
+Request satisfied count: 158
 *******************************
-Request number: 639
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride15 
-Revenue earned: 338
-Time of pick up: 933
-Request satisfied count: 175
-*******************************
-Request number: 667
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride14 
-Revenue earned: 352
-Time of pick up: 967
-Request satisfied count: 176
-*******************************
-Request number: 817
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride4 
-Revenue earned: 419
-Time of pick up: 1111
-Request satisfied count: 177
-*******************************
-Request number: 616
-Found a taxi: 4 
-no of passengers in: 4 
-Cost of ride13 
-Revenue earned: 200
-Time of pick up: 895
-Request satisfied count: 178
-*******************************
-Request number: 646
-Found a taxi: 0 
+Request number: 590
+Found a taxi: 3 
 no of passengers in: 5 
 Cost of ride11 
-Revenue earned: 334
-Time of pick up: 936
+Revenue earned: 326
+Time of pick up: 884
+Request satisfied count: 159
+*******************************
+Request number: 496
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride40 
+Revenue earned: 346
+Time of pick up: 781
+Request satisfied count: 160
+*******************************
+Request number: 615
+Found a taxi: 3 
+no of passengers in: 5 
+Cost of ride51 
+Revenue earned: 377
+Time of pick up: 900
+Request satisfied count: 161
+*******************************
+Request number: 573
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride15 
+Revenue earned: 227
+Time of pick up: 856
+Request satisfied count: 162
+*******************************
+Request number: 631
+Found a taxi: 9 
+no of passengers in: 5 
+Cost of ride25 
+Revenue earned: 470
+Time of pick up: 918
+Request satisfied count: 163
+*******************************
+Request number: 602
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride12 
+Revenue earned: 239
+Time of pick up: 881
+Request satisfied count: 164
+*******************************
+Request number: 551
+Found a taxi: 5 
+no of passengers in: 4 
+Cost of ride12 
+Revenue earned: 358
+Time of pick up: 833
+Request satisfied count: 165
+*******************************
+Request number: 558
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride27 
+Revenue earned: 385
+Time of pick up: 833
+Request satisfied count: 166
+*******************************
+Request number: 750
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride18 
+Revenue earned: 365
+Time of pick up: 1034
+Request satisfied count: 167
+*******************************
+Request number: 672
+Found a taxi: 9 
+no of passengers in: 5 
+Cost of ride52 
+Revenue earned: 522
+Time of pick up: 951
+Request satisfied count: 168
+*******************************
+Request number: 766
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride11 
+Revenue earned: 376
+Time of pick up: 1053
+Request satisfied count: 169
+*******************************
+Request number: 430
+Found a taxi: 2 
+no of passengers in: 4 
+Cost of ride41 
+Revenue earned: 183
+Time of pick up: 703
+Request satisfied count: 170
+*******************************
+Request number: 592
+Found a taxi: 6 
+no of passengers in: 5 
+Cost of ride49 
+Revenue earned: 545
+Time of pick up: 871
+Request satisfied count: 171
+*******************************
+Request number: 625
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride15 
+Revenue earned: 254
+Time of pick up: 902
+Request satisfied count: 172
+*******************************
+Request number: 426
+Found a taxi: 2 
+no of passengers in: 5 
+Cost of ride32 
+Revenue earned: 215
+Time of pick up: 707
+Request satisfied count: 173
+*******************************
+Request number: 796
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride9 
+Revenue earned: 385
+Time of pick up: 1090
+Request satisfied count: 174
+*******************************
+Request number: 646
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride11 
+Revenue earned: 265
+Time of pick up: 935
+Request satisfied count: 175
+*******************************
+Request number: 647
+Found a taxi: 6 
+no of passengers in: 5 
+Cost of ride56 
+Revenue earned: 601
+Time of pick up: 926
+Request satisfied count: 176
+*******************************
+Request number: 667
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride14 
+Revenue earned: 279
+Time of pick up: 951
+Request satisfied count: 177
+*******************************
+Request number: 705
+Found a taxi: 9 
+no of passengers in: 5 
+Cost of ride50 
+Revenue earned: 572
+Time of pick up: 985
+Request satisfied count: 178
+*******************************
+Request number: 815
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride3 
+Revenue earned: 388
+Time of pick up: 1113
 Request satisfied count: 179
+*******************************
+Request number: 609
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride40 
+Revenue earned: 425
+Time of pick up: 886
+Request satisfied count: 180
 *******************************
 Request number: 826
 Found a taxi: 1 
 no of passengers in: 5 
 Cost of ride9 
-Revenue earned: 428
-Time of pick up: 1117
-Request satisfied count: 180
-*******************************
-Request number: 674
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride31 
-Revenue earned: 365
-Time of pick up: 957
+Revenue earned: 397
+Time of pick up: 1116
 Request satisfied count: 181
 *******************************
-Request number: 617
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride21 
-Revenue earned: 321
-Time of pick up: 903
+Request number: 764
+Found a taxi: 0 
+no of passengers in: 4 
+Cost of ride1 
+Revenue earned: 375
+Time of pick up: 1050
 Request satisfied count: 182
 *******************************
-Request number: 496
-Found a taxi: 8 
-no of passengers in: 5 
-Cost of ride40 
-Revenue earned: 437
-Time of pick up: 771
-Request satisfied count: 183
-*******************************
-Request number: 650
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride17 
-Revenue earned: 338
-Time of pick up: 930
-Request satisfied count: 184
-*******************************
-Request number: 626
-Found a taxi: 6 
-no of passengers in: 4 
-Cost of ride17 
-Revenue earned: 551
-Time of pick up: 907
-Request satisfied count: 185
-*******************************
-Request number: 838
-Found a taxi: 1 
-no of passengers in: 4 
-Cost of ride22 
-Revenue earned: 450
-Time of pick up: 1148
-Request satisfied count: 186
-*******************************
-Request number: 853
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride14 
-Revenue earned: 464
-Time of pick up: 1148
-Request satisfied count: 187
-*******************************
-Request number: 676
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride13 
-Revenue earned: 351
-Time of pick up: 965
-Request satisfied count: 188
-*******************************
-Request number: 873
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 475
-Time of pick up: 1171
-Request satisfied count: 189
-*******************************
-Request number: 519
-Found a taxi: 8 
-no of passengers in: 5 
-Cost of ride19 
-Revenue earned: 456
-Time of pick up: 806
-Request satisfied count: 190
-*******************************
-Request number: 822
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride23 
-Revenue earned: 578
-Time of pick up: 1109
-Request satisfied count: 191
-*******************************
-Request number: 423
+Request number: 936
 Found a taxi: 7 
 no of passengers in: 5 
-Cost of ride43 
-Revenue earned: 364
-Time of pick up: 705
-Request satisfied count: 192
+Cost of ride24 
+Revenue earned: 693
+Time of pick up: 1251
+Request satisfied count: 183
 *******************************
-Request number: 699
+Request number: 498
 Found a taxi: 2 
 no of passengers in: 5 
-Cost of ride15 
-Revenue earned: 366
-Time of pick up: 983
-Request satisfied count: 193
+Cost of ride8 
+Revenue earned: 223
+Time of pick up: 778
+Request satisfied count: 184
 *******************************
-Request number: 840
-Found a taxi: 9 
+Request number: 700
+Found a taxi: 3 
 no of passengers in: 5 
-Cost of ride40 
-Revenue earned: 618
-Time of pick up: 1133
-Request satisfied count: 194
+Cost of ride9 
+Revenue earned: 386
+Time of pick up: 999
+Request satisfied count: 185
 *******************************
-Request number: 659
-Found a taxi: 4 
+Request number: 771
+Found a taxi: 0 
 no of passengers in: 5 
-Cost of ride14 
-Revenue earned: 214
-Time of pick up: 939
-Request satisfied count: 195
+Cost of ride4 
+Revenue earned: 379
+Time of pick up: 1059
+Request satisfied count: 186
 *******************************
-Request number: 721
+Request number: 505
+Found a taxi: 2 
+no of passengers in: 5 
+Cost of ride9 
+Revenue earned: 232
+Time of pick up: 793
+Request satisfied count: 187
+*******************************
+Request number: 518
 Found a taxi: 2 
 no of passengers in: 5 
 Cost of ride41 
-Revenue earned: 407
-Time of pick up: 1007
+Revenue earned: 273
+Time of pick up: 796
+Request satisfied count: 188
+*******************************
+Request number: 959
+Found a taxi: 7 
+no of passengers in: 5 
+Cost of ride24 
+Revenue earned: 717
+Time of pick up: 1297
+Request satisfied count: 189
+*******************************
+Request number: 680
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride45 
+Revenue earned: 470
+Time of pick up: 963
+Request satisfied count: 190
+*******************************
+Request number: 774
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride38 
+Revenue earned: 417
+Time of pick up: 1066
+Request satisfied count: 191
+*******************************
+Request number: 781
+Found a taxi: 9 
+no of passengers in: 5 
+Cost of ride11 
+Revenue earned: 583
+Time of pick up: 1085
+Request satisfied count: 192
+*******************************
+Request number: 885
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride11 
+Revenue earned: 408
+Time of pick up: 1175
+Request satisfied count: 193
+*******************************
+Request number: 896
+Found a taxi: 1 
+no of passengers in: 4 
+Cost of ride7 
+Revenue earned: 415
+Time of pick up: 1191
+Request satisfied count: 194
+*******************************
+Request number: 821
+Found a taxi: 9 
+no of passengers in: 5 
+Cost of ride41 
+Revenue earned: 624
+Time of pick up: 1109
+Request satisfied count: 195
+*******************************
+Request number: 600
+Found a taxi: 2 
+no of passengers in: 5 
+Cost of ride27 
+Revenue earned: 300
+Time of pick up: 878
 Request satisfied count: 196
+*******************************
+Request number: 758
+Found a taxi: 6 
+no of passengers in: 5 
+Cost of ride42 
+Revenue earned: 643
+Time of pick up: 1042
+Request satisfied count: 197
 *******************************
 Request number: 864
 Found a taxi: 9 
 no of passengers in: 5 
 Cost of ride56 
-Revenue earned: 674
-Time of pick up: 1161
-Request satisfied count: 197
-*******************************
-Request number: 894
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride17 
-Revenue earned: 492
-Time of pick up: 1199
+Revenue earned: 680
+Time of pick up: 1162
 Request satisfied count: 198
 *******************************
-Request number: 921
-Found a taxi: 1 
-no of passengers in: 5 
-Cost of ride12 
-Revenue earned: 504
-Time of pick up: 1226
-Request satisfied count: 199
-*******************************
-Request number: 518
+Request number: 760
 Found a taxi: 3 
 no of passengers in: 5 
-Cost of ride41 
-Revenue earned: 372
-Time of pick up: 801
+Cost of ride9 
+Revenue earned: 395
+Time of pick up: 1045
+Request satisfied count: 199
+*******************************
+Request number: 499
+Found a taxi: 8 
+no of passengers in: 3 
+Cost of ride45 
+Revenue earned: 362
+Time of pick up: 774
 Request satisfied count: 200
 *******************************
-Request number: 633
-Found a taxi: 6 
-no of passengers in: 5 
-Cost of ride19 
-Revenue earned: 570
-Time of pick up: 931
-Request satisfied count: 201
-*******************************
-Request number: 744
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride14 
-Revenue earned: 379
-Time of pick up: 1031
-Request satisfied count: 202
-*******************************
-Request number: 928
+Request number: 916
 Found a taxi: 1 
 no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 515
-Time of pick up: 1245
-Request satisfied count: 203
+Cost of ride23 
+Revenue earned: 438
+Time of pick up: 1234
+Request satisfied count: 201
 *******************************
-Request number: 681
-Found a taxi: 4 
+Request number: 763
+Found a taxi: 3 
 no of passengers in: 5 
-Cost of ride18 
-Revenue earned: 232
-Time of pick up: 962
-Request satisfied count: 204
+Cost of ride45 
+Revenue earned: 440
+Time of pick up: 1061
+Request satisfied count: 202
 *******************************
-Request number: 781
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 418
-Time of pick up: 1066
-Request satisfied count: 205
-*******************************
-Request number: 665
-Found a taxi: 6 
-no of passengers in: 5 
-Cost of ride17 
-Revenue earned: 587
-Time of pick up: 965
-Request satisfied count: 206
-*******************************
-Request number: 700
+Request number: 820
 Found a taxi: 6 
 no of passengers in: 5 
 Cost of ride9 
-Revenue earned: 596
-Time of pick up: 983
-Request satisfied count: 207
+Revenue earned: 652
+Time of pick up: 1108
+Request satisfied count: 203
 *******************************
-Request number: 587
-Found a taxi: 8 
-no of passengers in: 5 
-Cost of ride21 
-Revenue earned: 477
-Time of pick up: 865
-Request satisfied count: 208
-*******************************
-Request number: 716
-Found a taxi: 4 
-no of passengers in: 5 
-Cost of ride14 
-Revenue earned: 246
-Time of pick up: 994
-Request satisfied count: 209
-*******************************
-Request number: 783
+Request number: 848
 Found a taxi: 0 
 no of passengers in: 5 
 Cost of ride3 
-Revenue earned: 382
-Time of pick up: 1069
-Request satisfied count: 210
+Revenue earned: 420
+Time of pick up: 1134
+Request satisfied count: 204
+*******************************
+Request number: 507
+Found a taxi: 8 
+no of passengers in: 4 
+Cost of ride28 
+Revenue earned: 390
+Time of pick up: 783
+Request satisfied count: 205
+*******************************
+Request number: 946
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride24 
+Revenue earned: 462
+Time of pick up: 1270
+Request satisfied count: 206
+*******************************
+Request number: 832
+Found a taxi: 3 
+no of passengers in: 5 
+Cost of ride30 
+Revenue earned: 470
+Time of pick up: 1121
+Request satisfied count: 207
 *******************************
 Request number: 971
 Found a taxi: 1 
 no of passengers in: 5 
 Cost of ride9 
-Revenue earned: 524
-Time of pick up: 1304
-Request satisfied count: 211
+Revenue earned: 471
+Time of pick up: 1303
+Request satisfied count: 208
+*******************************
+Request number: 852
+Found a taxi: 3 
+no of passengers in: 4 
+Cost of ride16 
+Revenue earned: 486
+Time of pick up: 1151
+Request satisfied count: 209
 *******************************
 Request number: 975
 Found a taxi: 1 
 no of passengers in: 5 
 Cost of ride25 
-Revenue earned: 549
-Time of pick up: 1326
+Revenue earned: 496
+Time of pick up: 1327
+Request satisfied count: 210
+*******************************
+Request number: 633
+Found a taxi: 2 
+no of passengers in: 5 
+Cost of ride19 
+Revenue earned: 319
+Time of pick up: 934
+Request satisfied count: 211
+*******************************
+Request number: 840
+Found a taxi: 6 
+no of passengers in: 4 
+Cost of ride40 
+Revenue earned: 692
+Time of pick up: 1136
 Request satisfied count: 212
 *******************************
-Request number: 614
-Found a taxi: 8 
+Request number: 843
+Found a taxi: 6 
 no of passengers in: 5 
-Cost of ride54 
-Revenue earned: 531
-Time of pick up: 892
+Cost of ride73 
+Revenue earned: 765
+Time of pick up: 1136
 Request satisfied count: 213
 *******************************
 Request number: 983
 Found a taxi: 1 
 no of passengers in: 5 
 Cost of ride11 
-Revenue earned: 560
-Time of pick up: 1355
+Revenue earned: 507
+Time of pick up: 1357
 Request satisfied count: 214
 *******************************
-Request number: 752
-Found a taxi: 4 
-no of passengers in: 4 
-Cost of ride8 
-Revenue earned: 254
-Time of pick up: 1037
-Request satisfied count: 215
-*******************************
-Request number: 821
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride41 
-Revenue earned: 459
-Time of pick up: 1111
-Request satisfied count: 216
-*******************************
-Request number: 780
-Found a taxi: 4 
-no of passengers in: 4 
-Cost of ride13 
-Revenue earned: 267
-Time of pick up: 1071
-Request satisfied count: 217
-*******************************
-Request number: 777
-Found a taxi: 4 
-no of passengers in: 5 
-Cost of ride18 
-Revenue earned: 285
-Time of pick up: 1074
-Request satisfied count: 218
-*******************************
-Request number: 800
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride8 
-Revenue earned: 390
-Time of pick up: 1109
-Request satisfied count: 219
-*******************************
-Request number: 804
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride46 
-Revenue earned: 398
-Time of pick up: 1092
-Request satisfied count: 220
-*******************************
-Request number: 919
-Found a taxi: 9 
-no of passengers in: 4 
-Cost of ride29 
-Revenue earned: 703
-Time of pick up: 1240
-Request satisfied count: 221
-*******************************
-Request number: 886
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 468
-Time of pick up: 1180
-Request satisfied count: 222
-*******************************
-Request number: 636
-Found a taxi: 3 
-no of passengers in: 5 
-Cost of ride27 
-Revenue earned: 399
-Time of pick up: 920
-Request satisfied count: 223
-*******************************
-Request number: 934
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride8 
-Revenue earned: 711
-Time of pick up: 1250
-Request satisfied count: 224
-*******************************
-Request number: 763
-Found a taxi: 6 
-no of passengers in: 5 
-Cost of ride45 
-Revenue earned: 641
-Time of pick up: 1049
-Request satisfied count: 225
-*******************************
-Request number: 820
-Found a taxi: 4 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 294
-Time of pick up: 1112
-Request satisfied count: 226
-*******************************
-Request number: 848
-Found a taxi: 0 
-no of passengers in: 4 
-Cost of ride3 
-Revenue earned: 393
-Time of pick up: 1135
-Request satisfied count: 227
-*******************************
-Request number: 724
+Request number: 514
 Found a taxi: 8 
-no of passengers in: 5 
-Cost of ride43 
-Revenue earned: 574
-Time of pick up: 1006
-Request satisfied count: 228
-*******************************
-Request number: 692
-Found a taxi: 3 
-no of passengers in: 5 
-Cost of ride40 
-Revenue earned: 439
-Time of pick up: 972
-Request satisfied count: 229
-*******************************
-Request number: 843
-Found a taxi: 4 
-no of passengers in: 5 
-Cost of ride73 
-Revenue earned: 367
-Time of pick up: 1138
-Request satisfied count: 230
-*******************************
-Request number: 885
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 404
-Time of pick up: 1175
-Request satisfied count: 231
-*******************************
-Request number: 751
-Found a taxi: 3 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 448
-Time of pick up: 1035
-Request satisfied count: 232
-*******************************
-Request number: 615
-Found a taxi: 7 
-no of passengers in: 5 
-Cost of ride51 
-Revenue earned: 415
-Time of pick up: 894
-Request satisfied count: 233
-*******************************
-Request number: 816
-Found a taxi: 8 
-no of passengers in: 4 
-Cost of ride54 
-Revenue earned: 628
-Time of pick up: 1105
-Request satisfied count: 234
-*******************************
-Request number: 861
-Found a taxi: 6 
-no of passengers in: 5 
-Cost of ride47 
-Revenue earned: 688
-Time of pick up: 1148
-Request satisfied count: 235
-*******************************
-Request number: 774
-Found a taxi: 3 
-no of passengers in: 5 
-Cost of ride38 
-Revenue earned: 486
-Time of pick up: 1067
-Request satisfied count: 236
-*******************************
-Request number: 978
-Found a taxi: 9 
-no of passengers in: 5 
-Cost of ride31 
-Revenue earned: 742
-Time of pick up: 1318
-Request satisfied count: 237
-*******************************
-Request number: 832
-Found a taxi: 3 
 no of passengers in: 5 
 Cost of ride30 
-Revenue earned: 516
-Time of pick up: 1120
-Request satisfied count: 238
+Revenue earned: 420
+Time of pick up: 805
+Request satisfied count: 215
 *******************************
-Request number: 852
-Found a taxi: 3 
+Request number: 894
+Found a taxi: 0 
 no of passengers in: 4 
-Cost of ride16 
-Revenue earned: 532
-Time of pick up: 1156
-Request satisfied count: 239
-*******************************
-Request number: 912
-Found a taxi: 5 
-no of passengers in: 4 
-Cost of ride49 
-Revenue earned: 447
-Time of pick up: 1216
-Request satisfied count: 240
-*******************************
-Request number: 949
-Found a taxi: 2 
-no of passengers in: 5 
-Cost of ride29 
-Revenue earned: 497
-Time of pick up: 1278
-Request satisfied count: 241
-*******************************
-Request number: 835
-Found a taxi: 8 
-no of passengers in: 5 
-Cost of ride43 
-Revenue earned: 671
-Time of pick up: 1135
-Request satisfied count: 242
-*******************************
-Request number: 981
-Found a taxi: 2 
-no of passengers in: 5 
 Cost of ride17 
-Revenue earned: 514
-Time of pick up: 1330
-Request satisfied count: 243
+Revenue earned: 437
+Time of pick up: 1196
+Request satisfied count: 216
 *******************************
-Request number: 709
-Found a taxi: 7 
-no of passengers in: 4 
-Cost of ride55 
-Revenue earned: 470
-Time of pick up: 991
-Request satisfied count: 244
+Request number: 900
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride7 
+Revenue earned: 444
+Time of pick up: 1196
+Request satisfied count: 217
 *******************************
-Request number: 889
+Request number: 992
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride19 
+Revenue earned: 526
+Time of pick up: 1374
+Request satisfied count: 218
+*******************************
+Request number: 776
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride49 
+Revenue earned: 519
+Time of pick up: 1071
+Request satisfied count: 219
+*******************************
+Request number: 561
 Found a taxi: 8 
 no of passengers in: 4 
-Cost of ride26 
-Revenue earned: 697
-Time of pick up: 1191
-Request satisfied count: 245
+Cost of ride8 
+Revenue earned: 428
+Time of pick up: 848
+Request satisfied count: 220
 *******************************
-Request number: 964
+Request number: 998
+Found a taxi: 1 
+no of passengers in: 5 
+Cost of ride13 
+Revenue earned: 539
+Time of pick up: 1404
+Request satisfied count: 221
+*******************************
+Request number: 565
+Found a taxi: 8 
+no of passengers in: 4 
+Cost of ride18 
+Revenue earned: 446
+Time of pick up: 852
+Request satisfied count: 222
+*******************************
+Request number: 577
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride34 
+Revenue earned: 480
+Time of pick up: 863
+Request satisfied count: 223
+*******************************
+Request number: 804
 Found a taxi: 4 
 no of passengers in: 5 
-Cost of ride48 
-Revenue earned: 415
-Time of pick up: 1297
-Request satisfied count: 246
+Cost of ride46 
+Revenue earned: 325
+Time of pick up: 1096
+Request satisfied count: 224
 *******************************
-Request number: 936
+Request number: 733
+Found a taxi: 2 
+no of passengers in: 5 
+Cost of ride30 
+Revenue earned: 349
+Time of pick up: 1015
+Request satisfied count: 225
+*******************************
+Request number: 876
 Found a taxi: 5 
 no of passengers in: 5 
-Cost of ride24 
-Revenue earned: 471
-Time of pick up: 1248
-Request satisfied count: 247
-*******************************
-Request number: 961
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride21 
-Revenue earned: 425
-Time of pick up: 1308
-Request satisfied count: 248
-*******************************
-Request number: 988
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride12 
-Revenue earned: 437
-Time of pick up: 1347
-Request satisfied count: 249
-*******************************
-Request number: 991
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride18 
-Revenue earned: 455
-Time of pick up: 1366
-Request satisfied count: 250
+Cost of ride35 
+Revenue earned: 554
+Time of pick up: 1173
+Request satisfied count: 226
 *******************************
 Request number: 917
 Found a taxi: 3 
 no of passengers in: 5 
 Cost of ride16 
-Revenue earned: 548
-Time of pick up: 1232
-Request satisfied count: 251
+Revenue earned: 502
+Time of pick up: 1225
+Request satisfied count: 227
 *******************************
-Request number: 960
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride5 
-Revenue earned: 476
-Time of pick up: 1303
-Request satisfied count: 252
+Request number: 881
+Found a taxi: 4 
+no of passengers in: 4 
+Cost of ride8 
+Revenue earned: 333
+Time of pick up: 1181
+Request satisfied count: 228
 *******************************
 Request number: 941
 Found a taxi: 3 
 no of passengers in: 5 
 Cost of ride20 
-Revenue earned: 568
-Time of pick up: 1266
-Request satisfied count: 253
+Revenue earned: 522
+Time of pick up: 1258
+Request satisfied count: 229
 *******************************
-Request number: 759
-Found a taxi: 7 
-no of passengers in: 5 
-Cost of ride8 
-Revenue earned: 478
-Time of pick up: 1042
-Request satisfied count: 254
-*******************************
-Request number: 993
-Found a taxi: 0 
-no of passengers in: 5 
-Cost of ride13 
-Revenue earned: 468
-Time of pick up: 1391
-Request satisfied count: 255
-*******************************
-Request number: 760
-Found a taxi: 7 
-no of passengers in: 5 
-Cost of ride9 
-Revenue earned: 487
-Time of pick up: 1057
-Request satisfied count: 256
-*******************************
-Request number: 989
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride23 
-Revenue earned: 499
-Time of pick up: 1353
-Request satisfied count: 257
-*******************************
-Request number: 996
-Found a taxi: 5 
-no of passengers in: 5 
-Cost of ride12 
-Revenue earned: 511
-Time of pick up: 1388
-Request satisfied count: 258
-*******************************
-Request number: 802
-Found a taxi: 7 
-no of passengers in: 5 
-Cost of ride51 
-Revenue earned: 538
-Time of pick up: 1090
-Request satisfied count: 259
-*******************************
-Request number: 990
+Request number: 954
 Found a taxi: 3 
 no of passengers in: 5 
-Cost of ride16 
-Revenue earned: 584
-Time of pick up: 1358
-Request satisfied count: 260
+Cost of ride20 
+Revenue earned: 542
+Time of pick up: 1293
+Request satisfied count: 230
 *******************************
-Request number: 862
-Found a taxi: 7 
+Request number: 695
+Found a taxi: 8 
 no of passengers in: 5 
-Cost of ride41 
-Revenue earned: 579
-Time of pick up: 1148
-Request satisfied count: 261
+Cost of ride3 
+Revenue earned: 483
+Time of pick up: 971
+Request satisfied count: 231
+*******************************
+Request number: 977
+Found a taxi: 3 
+no of passengers in: 5 
+Cost of ride25 
+Revenue earned: 567
+Time of pick up: 1316
+Request satisfied count: 232
+*******************************
+Request number: 703
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride1 
+Revenue earned: 484
+Time of pick up: 987
+Request satisfied count: 233
+*******************************
+Request number: 976
+Found a taxi: 6 
+no of passengers in: 5 
+Cost of ride33 
+Revenue earned: 798
+Time of pick up: 1315
+Request satisfied count: 234
+*******************************
+Request number: 921
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride12 
+Revenue earned: 345
+Time of pick up: 1227
+Request satisfied count: 235
+*******************************
+Request number: 955
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride11 
+Revenue earned: 565
+Time of pick up: 1284
+Request satisfied count: 236
 *******************************
 Request number: 995
 Found a taxi: 3 
-no of passengers in: 5 
+no of passengers in: 4 
 Cost of ride15 
-Revenue earned: 599
-Time of pick up: 1388
-Request satisfied count: 262
+Revenue earned: 582
+Time of pick up: 1383
+Request satisfied count: 237
 *******************************
-Request number: 999
-Found a taxi: 3 
-no of passengers in: 5 
-Cost of ride11 
-Revenue earned: 610
-Time of pick up: 1409
-Request satisfied count: 263
-*******************************
-Request number: 947
-Found a taxi: 7 
-no of passengers in: 5 
-Cost of ride5 
-Revenue earned: 584
-Time of pick up: 1277
-Request satisfied count: 264
-*******************************
-Request number: 956
-Found a taxi: 7 
+Request number: 740
+Found a taxi: 8 
 no of passengers in: 5 
 Cost of ride6 
-Revenue earned: 590
-Time of pick up: 1291
-Request satisfied count: 265
+Revenue earned: 490
+Time of pick up: 1033
+Request satisfied count: 238
+*******************************
+Request number: 751
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride9 
+Revenue earned: 499
+Time of pick up: 1053
+Request satisfied count: 239
+*******************************
+Request number: 835
+Found a taxi: 2 
+no of passengers in: 3 
+Cost of ride43 
+Revenue earned: 392
+Time of pick up: 1131
+Request satisfied count: 240
+*******************************
+Request number: 974
+Found a taxi: 5 
+no of passengers in: 5 
+Cost of ride19 
+Revenue earned: 584
+Time of pick up: 1311
+Request satisfied count: 241
+*******************************
+Request number: 783
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride3 
+Revenue earned: 502
+Time of pick up: 1068
+Request satisfied count: 242
+*******************************
+Request number: 991
+Found a taxi: 0 
+no of passengers in: 4 
+Cost of ride18 
+Revenue earned: 462
+Time of pick up: 1359
+Request satisfied count: 243
+*******************************
+Request number: 800
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride8 
+Revenue earned: 510
+Time of pick up: 1101
+Request satisfied count: 244
+*******************************
+Request number: 996
+Found a taxi: 0 
+no of passengers in: 5 
+Cost of ride12 
+Revenue earned: 474
+Time of pick up: 1389
+Request satisfied count: 245
+*******************************
+Request number: 968
+Found a taxi: 4 
+no of passengers in: 5 
+Cost of ride4 
+Revenue earned: 349
+Time of pick up: 1312
+Request satisfied count: 246
+*******************************
+Request number: 877
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride9 
+Revenue earned: 519
+Time of pick up: 1173
+Request satisfied count: 247
+*******************************
+Request number: 911
+Found a taxi: 8 
+no of passengers in: 4 
+Cost of ride14 
+Revenue earned: 533
+Time of pick up: 1219
+Request satisfied count: 248
+*******************************
+Request number: 915
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride13 
+Revenue earned: 546
+Time of pick up: 1219
+Request satisfied count: 249
+*******************************
+Request number: 948
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride20 
+Revenue earned: 566
+Time of pick up: 1283
+Request satisfied count: 250
+*******************************
+Request number: 970
+Found a taxi: 8 
+no of passengers in: 5 
+Cost of ride19 
+Revenue earned: 585
+Time of pick up: 1311
+Request satisfied count: 251
 *******************************

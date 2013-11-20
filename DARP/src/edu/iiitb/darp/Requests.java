@@ -11,6 +11,7 @@ public class Requests {
 	public int getSource() {
 		return source;
 	}
+	
 	public void setSource(int source) {
 		this.source = source;
 	}
@@ -23,24 +24,27 @@ public class Requests {
 	public int getFirstpickup() {
 		return firstpickup;
 	}
+	
 	public void setFirstpickup(int firstpickup) {
 		this.firstpickup = firstpickup;
 	}
+	
 	public int getLastpickup() {
 		return lastpickup;
 	}
+	
 	public void setLastpickup(int lastpickup) {
 		this.lastpickup = lastpickup;
 	}
 	
-	
-	
 	public boolean isStatus() {
 		return status;
 	}
+	
 	public void setStatus(boolean status) {
 		this.status = status;
 	}
+	
 	public Requests(int source, int destination, int firstpickup, int lastpickup){
 		this.source = source;
 		this.destination = destination;
